@@ -1,6 +1,7 @@
 package SchoolJson;
 
 import java.util.Formatter;
+import java.util.HashMap;
 
 /**
  * Created by bllli on 17-5-19.
@@ -8,6 +9,18 @@ import java.util.Formatter;
 public class SchoolYear {
     private Department[] departments;
     private String year;
+
+    public String getYear(){
+        return year;
+    }
+
+    public HashMap<String, Department> getDepartmentsHashMap(){
+        HashMap<String, Department> departmentHashMap = new HashMap<>();
+        for( Department d:departments ){
+            departmentHashMap.put(d.getName(), d);
+        }
+        return departmentHashMap;
+    }
 
     public String toString(){
         StringBuilder sb = new StringBuilder();
