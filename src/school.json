@@ -1,0 +1,4384 @@
+{
+  "school_years": [
+    {
+      "departments": [
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2013010501",
+                  "name": "13\u673a\u672c1"
+                },
+                {
+                  "code": "2013010502",
+                  "name": "13\u673a\u672c2"
+                },
+                {
+                  "code": "2013010503",
+                  "name": "13\u673a\u672c3"
+                },
+                {
+                  "code": "2013010504",
+                  "name": "13\u673a\u672c4"
+                }
+              ],
+              "code": "0105",
+              "name": "\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u53ca\u5176\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013010701",
+                  "name": "13\u6d4b\u63a7\u672c"
+                }
+              ],
+              "code": "0107",
+              "name": "\u6d4b\u63a7\u6280\u672f\u4e0e\u4eea\u5668"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013011001",
+                  "name": "13\u673a\u75351"
+                },
+                {
+                  "code": "2013011002",
+                  "name": "13\u673a\u75352"
+                }
+              ],
+              "code": "0110",
+              "name": "\u673a\u7535\u4e00\u4f53\u5316\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013011101",
+                  "name": "13\u6750\u6599\u6210\u578b\u672c"
+                }
+              ],
+              "code": "0111",
+              "name": "\u6750\u6599\u6210\u578b\u53ca\u63a7\u5236\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013210101",
+                  "name": "13\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u7c7b1"
+                },
+                {
+                  "code": "2013210102",
+                  "name": "13\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u7c7b2"
+                },
+                {
+                  "code": "2013210103",
+                  "name": "13\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u7c7b3"
+                }
+              ],
+              "code": "2101",
+              "name": "\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013210401",
+                  "name": "13\u673a\u68b0\u5236\u9020\u4e0e\u81ea\u52a8\u53161"
+                },
+                {
+                  "code": "2013210402",
+                  "name": "13\u673a\u68b0\u5236\u9020\u4e0e\u81ea\u52a8\u53162"
+                },
+                {
+                  "code": "2013210403",
+                  "name": "13\u673a\u68b0\u5236\u9020\u4e0e\u81ea\u52a8\u53163"
+                }
+              ],
+              "code": "2104",
+              "name": "\u673a\u68b0\u5236\u9020\u4e0e\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [],
+              "code": "2105",
+              "name": "\u6570\u63a7\u6280\u672f"
+            },
+            {
+              "classes": [],
+              "code": "2106",
+              "name": "\u6a21\u5177\u8bbe\u8ba1\u4e0e\u5236\u9020"
+            }
+          ],
+          "code": "31",
+          "name": "\u673a\u7535\u5de5\u7a0b\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [],
+              "code": "2102",
+              "name": "\u5e94\u7528\u7535\u5b50\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013210301",
+                  "name": "13\u7535\u6c14\u81ea\u52a8\u53161"
+                },
+                {
+                  "code": "2013210302",
+                  "name": "13\u7535\u6c14\u81ea\u52a8\u53162"
+                }
+              ],
+              "code": "2103",
+              "name": "\u7535\u6c14\u81ea\u52a8\u5316\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013020801",
+                  "name": "13\u7535\u672c1"
+                },
+                {
+                  "code": "2013020802",
+                  "name": "13\u7535\u672c2"
+                },
+                {
+                  "code": "2013020803",
+                  "name": "13\u7535\u672c3"
+                }
+              ],
+              "code": "0208",
+              "name": "\u7535\u6c14\u5de5\u7a0b\u53ca\u5176\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013021401",
+                  "name": "13\u901a\u4fe1\u672c1"
+                },
+                {
+                  "code": "2013021402",
+                  "name": "13\u901a\u4fe1\u672c2"
+                }
+              ],
+              "code": "0214",
+              "name": "\u901a\u4fe1\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013021501",
+                  "name": "13\u7535\u4fe1\u672c1"
+                },
+                {
+                  "code": "2013021502",
+                  "name": "13\u7535\u4fe1\u672c2"
+                }
+              ],
+              "code": "0215",
+              "name": "\u7535\u5b50\u4fe1\u606f\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013021901",
+                  "name": "13\u81ea\u52a8\u5316\u672c"
+                }
+              ],
+              "code": "0219",
+              "name": "\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013022001",
+                  "name": "13\u7535\u5b50\u4fe1\u606f\u7c7b\u672c1"
+                },
+                {
+                  "code": "2013022002",
+                  "name": "13\u7535\u5b50\u4fe1\u606f\u7c7b\u672c2"
+                },
+                {
+                  "code": "2013022003",
+                  "name": "13\u7535\u5b50\u4fe1\u606f\u7c7b\u672c3"
+                },
+                {
+                  "code": "2013022004",
+                  "name": "13\u7535\u5b50\u4fe1\u606f\u7c7b\u672c4"
+                }
+              ],
+              "code": "0220",
+              "name": "\u7535\u5b50\u4fe1\u606f\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013022101",
+                  "name": "13\u8f68\u9053\u4ea4\u901a\u672c"
+                }
+              ],
+              "code": "0221",
+              "name": "\u8f68\u9053\u4ea4\u901a\u4fe1\u53f7\u4e0e\u63a7\u5236"
+            }
+          ],
+          "code": "32",
+          "name": "\u667a\u80fd\u4e0e\u4fe1\u606f\u5de5\u7a0b\u5b66\u9662"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2013030701",
+                  "name": "13\u73af\u672c1"
+                },
+                {
+                  "code": "2013030702",
+                  "name": "13\u73af\u672c2"
+                }
+              ],
+              "code": "0307",
+              "name": "\u73af\u5883\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013030901",
+                  "name": "13\u5316\u5de5\u672c1"
+                },
+                {
+                  "code": "2013030902",
+                  "name": "13\u5316\u5de5\u672c2"
+                }
+              ],
+              "code": "0309",
+              "name": "\u5316\u5b66\u5de5\u7a0b\u4e0e\u5de5\u827a"
+            },
+            {
+              "classes": [],
+              "code": "0311",
+              "name": "\u6750\u6599\u5de5\u7a0b\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013031301",
+                  "name": "13\u65e0\u673a\u672c1"
+                },
+                {
+                  "code": "2013031302",
+                  "name": "13\u65e0\u673a\u672c2"
+                }
+              ],
+              "code": "0313",
+              "name": "\u65e0\u673a\u975e\u91d1\u5c5e\u6750\u6599\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013031501",
+                  "name": "13\u77f3\u6cb9"
+                }
+              ],
+              "code": "0315",
+              "name": "\u77f3\u6cb9\u5316\u5de5\u751f\u4ea7\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013031701",
+                  "name": "13\u5316\u5de5\u6280\u672f\u7c7b1"
+                },
+                {
+                  "code": "2013031702",
+                  "name": "13\u5316\u5de5\u6280\u672f\u7c7b2"
+                }
+              ],
+              "code": "0317",
+              "name": "\u5316\u5de5\u6280\u672f\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013220601",
+                  "name": "13\u5de5\u4e1a\u5206\u6790\u4e0e\u68c0\u9a8c"
+                }
+              ],
+              "code": "2206",
+              "name": "\u5de5\u4e1a\u5206\u6790\u4e0e\u68c0\u9a8c"
+            }
+          ],
+          "code": "33",
+          "name": "\u73af\u5883\u4e0e\u5316\u5b66\u5de5\u7a0b\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2013040801",
+                  "name": "13\u571f\u672c1"
+                },
+                {
+                  "code": "2013040802",
+                  "name": "13\u571f\u672c2"
+                },
+                {
+                  "code": "2013040803",
+                  "name": "13\u571f\u672c3"
+                },
+                {
+                  "code": "2013040804",
+                  "name": "13\u571f\u672c4"
+                }
+              ],
+              "code": "0408",
+              "name": "\u571f\u6728\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013041201",
+                  "name": "13\u5efa\u7b51\u5de5\u7a0b1"
+                },
+                {
+                  "code": "2013041202",
+                  "name": "13\u5efa\u7b51\u5de5\u7a0b2"
+                },
+                {
+                  "code": "2013041203",
+                  "name": "13\u5efa\u7b51\u5de5\u7a0b3"
+                }
+              ],
+              "code": "0412",
+              "name": "\u5efa\u7b51\u5de5\u7a0b\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013041501",
+                  "name": "13\u5de5\u7a0b\u7ba1\u7406\u672c"
+                }
+              ],
+              "code": "0415",
+              "name": "\u5de5\u7a0b\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013041901",
+                  "name": "13\u5efa\u7b51\u73af\u5883\u672c1"
+                },
+                {
+                  "code": "2013041902",
+                  "name": "13\u5efa\u7b51\u73af\u5883\u672c2"
+                }
+              ],
+              "code": "0419",
+              "name": "\u5efa\u7b51\u73af\u5883\u4e0e\u80fd\u6e90\u5e94\u7528\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013042101",
+                  "name": "13\u571f\u672c\u8305\u4ee5\u5347\u73ed"
+                }
+              ],
+              "code": "0421",
+              "name": "\u571f\u6728\u5de5\u7a0b\uff08\u8305\u4ee5\u5347\u73ed\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013042001",
+                  "name": "13\u5de5\u7a0b\u9020\u4ef71"
+                },
+                {
+                  "code": "2013042002",
+                  "name": "13\u5de5\u7a0b\u9020\u4ef72"
+                },
+                {
+                  "code": "2013042003",
+                  "name": "13\u5de5\u7a0b\u9020\u4ef73"
+                },
+                {
+                  "code": "2013042004",
+                  "name": "13\u5de5\u7a0b\u9020\u4ef74"
+                },
+                {
+                  "code": "2013042005",
+                  "name": "13\u5de5\u7a0b\u9020\u4ef75"
+                },
+                {
+                  "code": "2013042006",
+                  "name": "13\u5de5\u7a0b\u9020\u4ef76"
+                }
+              ],
+              "code": "0420",
+              "name": "\u5de5\u7a0b\u9020\u4ef7\uff08\u539f\uff09"
+            }
+          ],
+          "code": "34",
+          "name": "\u571f\u6728\u5de5\u7a0b\u5b66\u9662"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2013051601",
+                  "name": "13\u56fd\u8d38\u672c1"
+                },
+                {
+                  "code": "2013051602",
+                  "name": "13\u56fd\u8d38\u672c2"
+                }
+              ],
+              "code": "0516",
+              "name": "\u56fd\u9645\u7ecf\u6d4e\u4e0e\u8d38\u6613"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013052001",
+                  "name": "13\u7269\u6d41\u7ba1\u74061"
+                },
+                {
+                  "code": "2013052002",
+                  "name": "13\u7269\u6d41\u7ba1\u74062"
+                }
+              ],
+              "code": "0520",
+              "name": "\u7269\u6d41\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013052501",
+                  "name": "13\u5e02\u573a\u8425\u9500\u672c1"
+                },
+                {
+                  "code": "2013052502",
+                  "name": "13\u5e02\u573a\u8425\u9500\u672c2"
+                }
+              ],
+              "code": "0525",
+              "name": "\u5e02\u573a\u8425\u9500"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013052601",
+                  "name": "13\u5de5\u5546\u4f01\u4e1a\u7ba1\u74061"
+                },
+                {
+                  "code": "2013052602",
+                  "name": "13\u5de5\u5546\u4f01\u4e1a\u7ba1\u74062"
+                }
+              ],
+              "code": "0526",
+              "name": "\u5de5\u5546\u4f01\u4e1a\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013220101",
+                  "name": "13\u9152\u5e97\u7ba1\u7406\u672c"
+                }
+              ],
+              "code": "2201",
+              "name": "\u9152\u5e97\u7ba1\u7406"
+            },
+            {
+              "classes": [],
+              "code": "2202",
+              "name": "\u5bfc\u6e38"
+            }
+          ],
+          "code": "35",
+          "name": "\u7ecf\u6d4e\u7ba1\u7406\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2013051501",
+                  "name": "13\u4f1a\u672c1"
+                },
+                {
+                  "code": "2013051502",
+                  "name": "13\u4f1a\u672c2"
+                }
+              ],
+              "code": "0515",
+              "name": "\u4f1a\u8ba1\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013052901",
+                  "name": "13\u8d22\u7ba1\u672c1"
+                },
+                {
+                  "code": "2013052902",
+                  "name": "13\u8d22\u7ba1\u672c2"
+                }
+              ],
+              "code": "0529",
+              "name": "\u8d22\u52a1\u7ba1\u7406\uff08\u672c\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013053101",
+                  "name": "13\u5de5\u5546\u7ba1\u7406\u7c7b\u672c1"
+                },
+                {
+                  "code": "2013053102",
+                  "name": "13\u5de5\u5546\u7ba1\u7406\u7c7b\u672c2"
+                },
+                {
+                  "code": "2013053103",
+                  "name": "13\u5de5\u5546\u7ba1\u7406\u7c7b\u672c3"
+                },
+                {
+                  "code": "2013053104",
+                  "name": "13\u5de5\u5546\u7ba1\u7406\u7c7b\u672c4"
+                }
+              ],
+              "code": "0531",
+              "name": "\u5de5\u5546\u7ba1\u7406\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013053201",
+                  "name": "13\u4f1a\u8ba1\u7535\u7b97\u53161"
+                },
+                {
+                  "code": "2013053202",
+                  "name": "13\u4f1a\u8ba1\u7535\u7b97\u53162"
+                },
+                {
+                  "code": "2013053203",
+                  "name": "13\u4f1a\u8ba1\u7535\u7b97\u53163"
+                },
+                {
+                  "code": "2013053204",
+                  "name": "13\u4f1a\u8ba1\u7535\u7b97\u53164"
+                },
+                {
+                  "code": "2013053205",
+                  "name": "13\u4f1a\u8ba1\u7535\u7b97\u53165"
+                },
+                {
+                  "code": "2013053206",
+                  "name": "13\u4f1a\u8ba1\u7535\u7b97\u53166"
+                },
+                {
+                  "code": "2013053207",
+                  "name": "13\u4f1a\u8ba1\u7535\u7b97\u53167"
+                },
+                {
+                  "code": "2013053208",
+                  "name": "13\u4f1a\u8ba1\u7535\u7b97\u53168"
+                },
+                {
+                  "code": "2013053209",
+                  "name": "13\u4f1a\u8ba1\u7535\u7b97\u53169"
+                },
+                {
+                  "code": "2013053210",
+                  "name": "13\u4f1a\u8ba1\u7535\u7b97\u531610"
+                },
+                {
+                  "code": "2013053211",
+                  "name": "13\u4f1a\u8ba1\u7535\u7b97\u531611"
+                },
+                {
+                  "code": "2013053212",
+                  "name": "13\u4f1a\u8ba1\u7535\u7b97\u531612"
+                }
+              ],
+              "code": "0532",
+              "name": "\u4f1a\u8ba1\u7535\u7b97\u5316"
+            }
+          ],
+          "code": "36",
+          "name": "\u4f1a\u8ba1\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2013060101",
+                  "name": "13\u82f1\u672c1"
+                },
+                {
+                  "code": "2013060102",
+                  "name": "13\u82f1\u672c2"
+                },
+                {
+                  "code": "2013060103",
+                  "name": "13\u82f1\u672c3"
+                }
+              ],
+              "code": "0601",
+              "name": "\u82f1\u8bed"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013060701",
+                  "name": "13\u65e5\u8bed\u672c"
+                }
+              ],
+              "code": "0607",
+              "name": "\u65e5\u8bed"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013060801",
+                  "name": "13\u6c49\u8bed\u56fd\u9645\u6559\u80b2\u672c"
+                }
+              ],
+              "code": "0608",
+              "name": "\u6c49\u8bed\u56fd\u9645\u6559\u80b2"
+            }
+          ],
+          "code": "37",
+          "name": "\u5916\u8bed\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2013070801",
+                  "name": "13\u6cd5\u672c"
+                }
+              ],
+              "code": "0708",
+              "name": "\u6cd5\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013071401",
+                  "name": "13\u6c49\u8bed\u672c1"
+                },
+                {
+                  "code": "2013071402",
+                  "name": "13\u6c49\u8bed\u672c2"
+                }
+              ],
+              "code": "0714",
+              "name": "\u6c49\u8bed\u8a00\u6587\u5b66"
+            }
+          ],
+          "code": "38",
+          "name": "\u6587\u6cd5\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2013180301",
+                  "name": "13\u73af\u5883\u8bbe\u8ba1\u672c1"
+                },
+                {
+                  "code": "2013180302",
+                  "name": "13\u73af\u5883\u8bbe\u8ba1\u672c2"
+                }
+              ],
+              "code": "1803",
+              "name": "\u73af\u5883\u8bbe\u8ba1"
+            }
+          ],
+          "code": "39",
+          "name": "\u827a\u672f\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2013020601",
+                  "name": "13\u8ba1\u672c1"
+                },
+                {
+                  "code": "2013020602",
+                  "name": "13\u8ba1\u672c2"
+                }
+              ],
+              "code": "0206",
+              "name": "\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013051401",
+                  "name": "13\u4fe1\u7ba1\u672c1"
+                },
+                {
+                  "code": "2013051402",
+                  "name": "13\u4fe1\u7ba1\u672c2"
+                }
+              ],
+              "code": "0514",
+              "name": "\u4fe1\u606f\u7ba1\u7406\u4e0e\u4fe1\u606f\u7cfb\u7edf"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013200101",
+                  "name": "13\u7269\u8054\u7f51\u672c"
+                }
+              ],
+              "code": "2001",
+              "name": "\u7269\u8054\u7f51\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013230101",
+                  "name": "13\u8ba1\u7b97\u673a\u7c7b1"
+                },
+                {
+                  "code": "2013230102",
+                  "name": "13\u8ba1\u7b97\u673a\u7c7b2"
+                },
+                {
+                  "code": "2013230103",
+                  "name": "13\u8ba1\u7b97\u673a\u7c7b3"
+                },
+                {
+                  "code": "2013230104",
+                  "name": "13\u8ba1\u7b97\u673a\u7c7b4"
+                }
+              ],
+              "code": "2301",
+              "name": "\u8ba1\u7b97\u673a\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013230201",
+                  "name": "13\u7535\u5b50\u5546\u52a11"
+                },
+                {
+                  "code": "2013230202",
+                  "name": "13\u7535\u5b50\u5546\u52a12"
+                },
+                {
+                  "code": "2013230203",
+                  "name": "13\u7535\u5b50\u5546\u52a13"
+                }
+              ],
+              "code": "2302",
+              "name": "\u7535\u5b50\u5546\u52a1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013230301",
+                  "name": "13\u8ba1\u7b97\u673a\u7f51\u7edc"
+                }
+              ],
+              "code": "2303",
+              "name": "\u8ba1\u7b97\u673a\u7f51\u7edc\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013230401",
+                  "name": "13\u8ba1\u7b97\u673a\u4fe1\u606f\u7ba1\u7406"
+                }
+              ],
+              "code": "2304",
+              "name": "\u8ba1\u7b97\u673a\u4fe1\u606f\u7ba1\u7406"
+            }
+          ],
+          "code": "40",
+          "name": "\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2013071501",
+                  "name": "13\u5e7f\u544a\u672c1"
+                },
+                {
+                  "code": "2013071502",
+                  "name": "13\u5e7f\u544a\u672c2"
+                }
+              ],
+              "code": "0715",
+              "name": "\u5e7f\u544a\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2013230501",
+                  "name": "13\u56fe\u5f62\u56fe\u50cf\u5236\u4f5c"
+                }
+              ],
+              "code": "2305",
+              "name": "\u56fe\u5f62\u56fe\u50cf\u5236\u4f5c"
+            }
+          ],
+          "code": "43",
+          "name": "\u4f20\u64ad\u4e0e\u52a8\u753b\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232757",
+                  "name": "\u6c7d\u8f66\u68c0\u6d4b\u4e0e\u7ef4\u4fee201301"
+                }
+              ],
+              "code": "2329",
+              "name": "\u6c7d\u8f66\u68c0\u6d4b\u4e0e\u7ef4\u4fee"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232758",
+                  "name": "\u710a\u63a5\u6280\u672f\u53ca\u81ea\u52a8\u5316201301"
+                }
+              ],
+              "code": "2330",
+              "name": "\u710a\u63a5\u6280\u672f\u53ca\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232756",
+                  "name": "\u8ba1\u7b97\u673a\u5e94\u7528\u6280\u672f201301"
+                }
+              ],
+              "code": "2331",
+              "name": "\u8ba1\u7b97\u673a\u5e94\u7528\u6280\u672f\uff08\u8f6f\u4ef6\u6280\u672f\u65b9\u5411\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232752",
+                  "name": "\u5f71\u89c6\u52a8\u753b201301"
+                },
+                {
+                  "code": "2015232753",
+                  "name": "\u5f71\u89c6\u52a8\u753b201302"
+                }
+              ],
+              "code": "2332",
+              "name": "\u5f71\u89c6\u52a8\u753b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232754",
+                  "name": "\u5f71\u89c6\u5e7f\u544a201301"
+                }
+              ],
+              "code": "2333",
+              "name": "\u5f71\u89c6\u5e7f\u544a"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232755",
+                  "name": "\u5f71\u89c6\u591a\u5a92\u4f53201301"
+                }
+              ],
+              "code": "2334",
+              "name": "\u5f71\u89c6\u591a\u5a92\u4f53\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232759",
+                  "name": "\u670d\u88c5\u8bbe\u8ba1201301"
+                }
+              ],
+              "code": "2335",
+              "name": "\u670d\u88c5\u8bbe\u8ba1"
+            },
+            {
+              "classes": [],
+              "code": "2336",
+              "name": "\u670d\u88c5\u8bbe\u8ba1\uff08\u827a\u672f\u8bbe\u8ba1\u65b9\u5411\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232760",
+                  "name": "\u4eba\u7269\u5f62\u8c61\u8bbe\u8ba1201301"
+                }
+              ],
+              "code": "2337",
+              "name": "\u4eba\u7269\u5f62\u8c61\u8bbe\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232761",
+                  "name": "\u73e0\u5b9d\u9996\u9970\u5de5\u827a\u53ca\u9274\u5b9a201301"
+                }
+              ],
+              "code": "2338",
+              "name": "\u73e0\u5b9d\u9996\u9970\u5de5\u827a\u9274\u5b9a"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232776",
+                  "name": "13\u6c7d\u4fee\uff08\u4e2d\u4e13\uff09"
+                }
+              ],
+              "code": "50",
+              "name": "\u6c7d\u8f66\u68c0\u6d4b\u4e0e\u7ef4\u4fee\uff08\u4e2d\u4e13\uff09"
+            }
+          ],
+          "code": "50",
+          "name": "\u79d1\u5927\u6559\u80b2\u90e8\uff08\u8001\u751f-\u9f99\u6cfd\uff09"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232762",
+                  "name": "\u4f1a\u8ba1201301"
+                },
+                {
+                  "code": "2015232763",
+                  "name": "\u4f1a\u8ba1201302"
+                },
+                {
+                  "code": "2015232764",
+                  "name": "\u4f1a\u8ba1201303"
+                },
+                {
+                  "code": "2015232765",
+                  "name": "\u4f1a\u8ba1201304"
+                }
+              ],
+              "code": "2339",
+              "name": "\u4f1a\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232766",
+                  "name": "\u5546\u52a1\u82f1\u8bed201301"
+                }
+              ],
+              "code": "2340",
+              "name": "\u5546\u52a1\u82f1\u8bed"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232767",
+                  "name": "\u73af\u5883\u827a\u672f\u8bbe\u8ba1201301"
+                },
+                {
+                  "code": "2015232768",
+                  "name": "\u73af\u5883\u827a\u672f\u8bbe\u8ba1201302"
+                }
+              ],
+              "code": "2341",
+              "name": "\u73af\u5883\u827a\u672f\u8bbe\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232771",
+                  "name": "\u666f\u89c2\u827a\u672f\u8bbe\u8ba1201301"
+                }
+              ],
+              "code": "2342",
+              "name": "\u73af\u5883\u827a\u672f\u8bbe\u8ba1\uff08\u666f\u89c2\u8bbe\u8ba1\u65b9\u5411\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232769",
+                  "name": "\u88c5\u6f62\u827a\u672f\u8bbe\u8ba1201301"
+                }
+              ],
+              "code": "2343",
+              "name": "\u88c5\u6f62\u827a\u672f\u8bbe\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232770",
+                  "name": "\u88c5\u9970\u827a\u672f\u8bbe\u8ba1201301"
+                }
+              ],
+              "code": "2344",
+              "name": "\u88c5\u9970\u827a\u672f\u8bbe\u8ba1"
+            }
+          ],
+          "code": "51",
+          "name": "\u79d1\u5927\u6559\u80b2\u90e8\uff08\u8001\u751f-\u6587\u5317\uff09"
+        }
+      ],
+      "year": "2013"
+    },
+    {
+      "departments": [
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2014010501",
+                  "name": "14\u673a\u672c1"
+                },
+                {
+                  "code": "2014010502",
+                  "name": "14\u673a\u672c2"
+                },
+                {
+                  "code": "2014010503",
+                  "name": "14\u673a\u672c3"
+                },
+                {
+                  "code": "2014010504",
+                  "name": "14\u673a\u672c4"
+                }
+              ],
+              "code": "0105",
+              "name": "\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u53ca\u5176\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014010701",
+                  "name": "14\u6d4b\u63a7\u672c1"
+                },
+                {
+                  "code": "2014010702",
+                  "name": "14\u6d4b\u63a7\u672c2"
+                }
+              ],
+              "code": "0107",
+              "name": "\u6d4b\u63a7\u6280\u672f\u4e0e\u4eea\u5668"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014011001",
+                  "name": "14\u673a\u75351"
+                },
+                {
+                  "code": "2014011002",
+                  "name": "14\u673a\u75352"
+                },
+                {
+                  "code": "2014011003",
+                  "name": "14\u673a\u75353"
+                },
+                {
+                  "code": "2014011004",
+                  "name": "14\u673a\u75354"
+                }
+              ],
+              "code": "0110",
+              "name": "\u673a\u7535\u4e00\u4f53\u5316\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014011101",
+                  "name": "14\u6750\u6599\u6210\u578b\u672c1"
+                },
+                {
+                  "code": "2014011102",
+                  "name": "14\u6750\u6599\u6210\u578b\u672c2"
+                }
+              ],
+              "code": "0111",
+              "name": "\u6750\u6599\u6210\u578b\u53ca\u63a7\u5236\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014210101",
+                  "name": "14\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u7c7b1"
+                },
+                {
+                  "code": "2014210102",
+                  "name": "14\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u7c7b2"
+                },
+                {
+                  "code": "2014210103",
+                  "name": "14\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u7c7b3"
+                },
+                {
+                  "code": "2014210104",
+                  "name": "14\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u7c7b4"
+                }
+              ],
+              "code": "2101",
+              "name": "\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232707",
+                  "name": "14\u673a\u68b0\u5236\u9020\u81ea\u52a8\u53161"
+                },
+                {
+                  "code": "2015232708",
+                  "name": "14\u673a\u68b0\u5236\u9020\u81ea\u52a8\u53162"
+                }
+              ],
+              "code": "2104",
+              "name": "\u673a\u68b0\u5236\u9020\u4e0e\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232710",
+                  "name": "14\u6570\u63a7\u6280\u672f"
+                }
+              ],
+              "code": "2105",
+              "name": "\u6570\u63a7\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232709",
+                  "name": "14\u6a21\u5177\u8bbe\u8ba1\u4e0e\u5236\u9020"
+                }
+              ],
+              "code": "2106",
+              "name": "\u6a21\u5177\u8bbe\u8ba1\u4e0e\u5236\u9020"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014230601",
+                  "name": "14\u673a\u68b0\u7535\u5b50\u5de5\u7a0b\u672c1"
+                },
+                {
+                  "code": "2014230602",
+                  "name": "14\u673a\u68b0\u7535\u5b50\u5de5\u7a0b\u672c2"
+                }
+              ],
+              "code": "2306",
+              "name": "\u673a\u68b0\u7535\u5b50\u5de5\u7a0b"
+            },
+            {
+              "classes": [],
+              "code": "3112",
+              "name": "\u710a\u63a5\u6280\u672f\u53ca\u81ea\u52a8\u5316\uff08\u673a\u68b0\uff09"
+            }
+          ],
+          "code": "31",
+          "name": "\u673a\u7535\u5de5\u7a0b\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2014210301",
+                  "name": "14\u7535\u6c14\u81ea\u52a8\u5316\u6280\u672f1"
+                },
+                {
+                  "code": "2014210302",
+                  "name": "14\u7535\u6c14\u81ea\u52a8\u5316\u6280\u672f2"
+                }
+              ],
+              "code": "2103",
+              "name": "\u7535\u6c14\u81ea\u52a8\u5316\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014020801",
+                  "name": "14\u7535\u672c1"
+                },
+                {
+                  "code": "2014020802",
+                  "name": "14\u7535\u672c2"
+                },
+                {
+                  "code": "2014020803",
+                  "name": "14\u7535\u672c3"
+                }
+              ],
+              "code": "0208",
+              "name": "\u7535\u6c14\u5de5\u7a0b\u53ca\u5176\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232772",
+                  "name": "14\u901a\u4fe1\u672c1"
+                },
+                {
+                  "code": "2015232773",
+                  "name": "14\u901a\u4fe1\u672c2"
+                }
+              ],
+              "code": "0214",
+              "name": "\u901a\u4fe1\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232774",
+                  "name": "14\u7535\u4fe1\u672c1"
+                },
+                {
+                  "code": "2015232775",
+                  "name": "14\u7535\u4fe1\u672c2"
+                }
+              ],
+              "code": "0215",
+              "name": "\u7535\u5b50\u4fe1\u606f\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014021901",
+                  "name": "14\u81ea\u52a8\u5316\u672c1"
+                },
+                {
+                  "code": "2014021902",
+                  "name": "14\u81ea\u52a8\u5316\u672c2"
+                }
+              ],
+              "code": "0219",
+              "name": "\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014022001",
+                  "name": "14\u7535\u5b50\u4fe1\u606f\u7c7b\u672c1"
+                },
+                {
+                  "code": "2014022002",
+                  "name": "14\u7535\u5b50\u4fe1\u606f\u7c7b\u672c2"
+                },
+                {
+                  "code": "2014022003",
+                  "name": "14\u7535\u5b50\u4fe1\u606f\u7c7b\u672c3"
+                },
+                {
+                  "code": "2014022004",
+                  "name": "14\u7535\u5b50\u4fe1\u606f\u7c7b\u672c4"
+                }
+              ],
+              "code": "0220",
+              "name": "\u7535\u5b50\u4fe1\u606f\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014022101",
+                  "name": "14\u8f68\u9053\u4ea4\u901a\u672c"
+                }
+              ],
+              "code": "0221",
+              "name": "\u8f68\u9053\u4ea4\u901a\u4fe1\u53f7\u4e0e\u63a7\u5236"
+            }
+          ],
+          "code": "32",
+          "name": "\u667a\u80fd\u4e0e\u4fe1\u606f\u5de5\u7a0b\u5b66\u9662"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2014030701",
+                  "name": "14\u73af\u672c1"
+                },
+                {
+                  "code": "2014030702",
+                  "name": "14\u73af\u672c2"
+                }
+              ],
+              "code": "0307",
+              "name": "\u73af\u5883\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014030901",
+                  "name": "14\u5316\u5de5\u672c1"
+                },
+                {
+                  "code": "2014030902",
+                  "name": "14\u5316\u5de5\u672c2"
+                }
+              ],
+              "code": "0309",
+              "name": "\u5316\u5b66\u5de5\u7a0b\u4e0e\u5de5\u827a"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014031101",
+                  "name": "14\u6750\u6599"
+                }
+              ],
+              "code": "0311",
+              "name": "\u6750\u6599\u5de5\u7a0b\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014031301",
+                  "name": "14\u65e0\u673a\u672c1"
+                },
+                {
+                  "code": "2014031302",
+                  "name": "14\u65e0\u673a\u672c2"
+                }
+              ],
+              "code": "0313",
+              "name": "\u65e0\u673a\u975e\u91d1\u5c5e\u6750\u6599\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232750",
+                  "name": "14\u77f3\u6cb9"
+                }
+              ],
+              "code": "0315",
+              "name": "\u77f3\u6cb9\u5316\u5de5\u751f\u4ea7\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014031701",
+                  "name": "14\u5316\u5de5\u6280\u672f\u7c7b"
+                }
+              ],
+              "code": "0317",
+              "name": "\u5316\u5de5\u6280\u672f\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232751",
+                  "name": "14\u5de5\u4e1a\u5206\u6790"
+                }
+              ],
+              "code": "2206",
+              "name": "\u5de5\u4e1a\u5206\u6790\u4e0e\u68c0\u9a8c"
+            }
+          ],
+          "code": "33",
+          "name": "\u73af\u5883\u4e0e\u5316\u5b66\u5de5\u7a0b\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2014040801",
+                  "name": "14\u571f\u672c1"
+                },
+                {
+                  "code": "2014040802",
+                  "name": "14\u571f\u672c2"
+                },
+                {
+                  "code": "2014040803",
+                  "name": "14\u571f\u672c3"
+                },
+                {
+                  "code": "2014040804",
+                  "name": "14\u571f\u672c4"
+                }
+              ],
+              "code": "0408",
+              "name": "\u571f\u6728\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014041201",
+                  "name": "14\u5efa\u7b51\u5de5\u7a0b\u6280\u672f1"
+                },
+                {
+                  "code": "2014041202",
+                  "name": "14\u5efa\u7b51\u5de5\u7a0b\u6280\u672f2"
+                },
+                {
+                  "code": "2014041203",
+                  "name": "14\u5efa\u7b51\u5de5\u7a0b\u6280\u672f3"
+                }
+              ],
+              "code": "0412",
+              "name": "\u5efa\u7b51\u5de5\u7a0b\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014041501",
+                  "name": "14\u5de5\u7a0b\u7ba1\u7406\u672c1"
+                },
+                {
+                  "code": "2014041502",
+                  "name": "14\u5de5\u7a0b\u7ba1\u7406\u672c2"
+                }
+              ],
+              "code": "0415",
+              "name": "\u5de5\u7a0b\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014041901",
+                  "name": "14\u5efa\u73af\u672c1"
+                },
+                {
+                  "code": "2014041902",
+                  "name": "14\u5efa\u73af\u672c2"
+                }
+              ],
+              "code": "0419",
+              "name": "\u5efa\u7b51\u73af\u5883\u4e0e\u80fd\u6e90\u5e94\u7528\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014042101",
+                  "name": "14\u571f\u6728\u672c\u8305\u4ee5\u5347\u73ed"
+                }
+              ],
+              "code": "0421",
+              "name": "\u571f\u6728\u5de5\u7a0b\uff08\u8305\u4ee5\u5347\u73ed\uff09"
+            }
+          ],
+          "code": "34",
+          "name": "\u571f\u6728\u5de5\u7a0b\u5b66\u9662"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2014051601",
+                  "name": "14\u56fd\u8d38\u672c1"
+                },
+                {
+                  "code": "2014051602",
+                  "name": "14\u56fd\u8d38\u672c2"
+                }
+              ],
+              "code": "0516",
+              "name": "\u56fd\u9645\u7ecf\u6d4e\u4e0e\u8d38\u6613"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014052001",
+                  "name": "14\u7269\u6d411"
+                },
+                {
+                  "code": "2014052002",
+                  "name": "14\u7269\u6d412"
+                }
+              ],
+              "code": "0520",
+              "name": "\u7269\u6d41\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014052501",
+                  "name": "14\u8425\u9500\u672c1"
+                },
+                {
+                  "code": "2014052502",
+                  "name": "14\u8425\u9500\u672c2"
+                }
+              ],
+              "code": "0525",
+              "name": "\u5e02\u573a\u8425\u9500"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014052601",
+                  "name": "14\u5de5\u5546\u4f01\u4e1a\u7ba1\u74061"
+                },
+                {
+                  "code": "2014052602",
+                  "name": "14\u5de5\u5546\u4f01\u4e1a\u7ba1\u74062"
+                },
+                {
+                  "code": "2014052603",
+                  "name": "14\u5de5\u5546\u4f01\u4e1a\u7ba1\u74063"
+                },
+                {
+                  "code": "2014052604",
+                  "name": "14\u5de5\u5546\u4f01\u4e1a\u7ba1\u74064"
+                }
+              ],
+              "code": "0526",
+              "name": "\u5de5\u5546\u4f01\u4e1a\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014220101",
+                  "name": "14\u9152\u5e97\u7ba1\u7406\u672c1"
+                },
+                {
+                  "code": "2014220102",
+                  "name": "14\u9152\u5e97\u7ba1\u7406\u672c2"
+                }
+              ],
+              "code": "2201",
+              "name": "\u9152\u5e97\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014071101",
+                  "name": "14\u65c5\u6e38\u7ba1\u7406"
+                }
+              ],
+              "code": "0711",
+              "name": "\u65c5\u6e38\u7ba1\u7406"
+            }
+          ],
+          "code": "35",
+          "name": "\u7ecf\u6d4e\u7ba1\u7406\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2014051501",
+                  "name": "14\u4f1a\u672c1"
+                },
+                {
+                  "code": "2014051502",
+                  "name": "14\u4f1a\u672c2"
+                }
+              ],
+              "code": "0515",
+              "name": "\u4f1a\u8ba1\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014052401",
+                  "name": "14\u6295\u8d44"
+                }
+              ],
+              "code": "0524",
+              "name": "\u6295\u8d44\u4e0e\u7406\u8d22"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014052901",
+                  "name": "14\u8d22\u52a1\u7ba1\u7406\u672c1"
+                },
+                {
+                  "code": "2014052902",
+                  "name": "14\u8d22\u52a1\u7ba1\u7406\u672c2"
+                }
+              ],
+              "code": "0529",
+              "name": "\u8d22\u52a1\u7ba1\u7406\uff08\u672c\uff09"
+            }
+          ],
+          "code": "36",
+          "name": "\u4f1a\u8ba1\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2014060101",
+                  "name": "14\u82f1\u672c1"
+                },
+                {
+                  "code": "2014060102",
+                  "name": "14\u82f1\u672c2"
+                },
+                {
+                  "code": "2014060103",
+                  "name": "14\u82f1\u672c3"
+                }
+              ],
+              "code": "0601",
+              "name": "\u82f1\u8bed"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014060701",
+                  "name": "14\u65e5\u8bed\u672c"
+                }
+              ],
+              "code": "0607",
+              "name": "\u65e5\u8bed"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014060801",
+                  "name": "14\u6c49\u8bed\u56fd\u9645\u6559\u80b2\u672c"
+                }
+              ],
+              "code": "0608",
+              "name": "\u6c49\u8bed\u56fd\u9645\u6559\u80b2"
+            }
+          ],
+          "code": "37",
+          "name": "\u5916\u8bed\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2014070801",
+                  "name": "14\u6cd5\u672c1"
+                },
+                {
+                  "code": "2014070802",
+                  "name": "14\u6cd5\u672c2"
+                }
+              ],
+              "code": "0708",
+              "name": "\u6cd5\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014071401",
+                  "name": "14\u6c49\u8bed\u672c"
+                }
+              ],
+              "code": "0714",
+              "name": "\u6c49\u8bed\u8a00\u6587\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014230701",
+                  "name": "14\u79d8\u4e66\u5b66\u672c1"
+                },
+                {
+                  "code": "2014230702",
+                  "name": "14\u79d8\u4e66\u5b66\u672c2"
+                }
+              ],
+              "code": "2307",
+              "name": "\u79d8\u4e66\u5b66"
+            }
+          ],
+          "code": "38",
+          "name": "\u6587\u6cd5\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2014180301",
+                  "name": "14\u73af\u5883\u8bbe\u8ba1\u672c1"
+                },
+                {
+                  "code": "2014180302",
+                  "name": "14\u73af\u5883\u8bbe\u8ba1\u672c2"
+                }
+              ],
+              "code": "1803",
+              "name": "\u73af\u5883\u8bbe\u8ba1"
+            }
+          ],
+          "code": "39",
+          "name": "\u827a\u672f\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2014020601",
+                  "name": "14\u8ba1\u672c1"
+                },
+                {
+                  "code": "2014020602",
+                  "name": "14\u8ba1\u672c2"
+                }
+              ],
+              "code": "0206",
+              "name": "\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014051401",
+                  "name": "14\u4fe1\u7ba1\u672c1"
+                },
+                {
+                  "code": "2014051402",
+                  "name": "14\u4fe1\u7ba1\u672c2"
+                }
+              ],
+              "code": "0514",
+              "name": "\u4fe1\u606f\u7ba1\u7406\u4e0e\u4fe1\u606f\u7cfb\u7edf"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014200101",
+                  "name": "14\u7269\u8054\u7f51\u672c1"
+                },
+                {
+                  "code": "2014200102",
+                  "name": "14\u7269\u8054\u7f51\u672c2"
+                }
+              ],
+              "code": "2001",
+              "name": "\u7269\u8054\u7f51\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014230101",
+                  "name": "14\u8ba1\u7b97\u673a\u7c7b1"
+                },
+                {
+                  "code": "2014230102",
+                  "name": "14\u8ba1\u7b97\u673a\u7c7b2"
+                },
+                {
+                  "code": "2014230103",
+                  "name": "14\u8ba1\u7b97\u673a\u7c7b3"
+                },
+                {
+                  "code": "2014230104",
+                  "name": "14\u8ba1\u7b97\u673a\u7c7b4"
+                },
+                {
+                  "code": "2014230105",
+                  "name": "14\u8ba1\u7b97\u673a\u7c7b5"
+                },
+                {
+                  "code": "2014230106",
+                  "name": "14\u8ba1\u7b97\u673a\u7c7b6"
+                }
+              ],
+              "code": "2301",
+              "name": "\u8ba1\u7b97\u673a\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014230201",
+                  "name": "14\u7535\u5b50\u5546\u52a11"
+                },
+                {
+                  "code": "2014230202",
+                  "name": "14\u7535\u5b50\u5546\u52a12"
+                },
+                {
+                  "code": "2014230203",
+                  "name": "14\u7535\u5b50\u5546\u52a13"
+                },
+                {
+                  "code": "2014230204",
+                  "name": "14\u7535\u5b50\u5546\u52a14"
+                }
+              ],
+              "code": "2302",
+              "name": "\u7535\u5b50\u5546\u52a1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014230301",
+                  "name": "14\u8ba1\u7b97\u673a\u7f51\u7edc\u6280\u672f"
+                }
+              ],
+              "code": "2303",
+              "name": "\u8ba1\u7b97\u673a\u7f51\u7edc\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014230401",
+                  "name": "14\u8ba1\u7b97\u673a\u4fe1\u606f\u7ba1\u74061"
+                },
+                {
+                  "code": "2014230402",
+                  "name": "14\u8ba1\u7b97\u673a\u4fe1\u606f\u7ba1\u74062"
+                }
+              ],
+              "code": "2304",
+              "name": "\u8ba1\u7b97\u673a\u4fe1\u606f\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014230801",
+                  "name": "14\u8ba1\u7b97\u673a\u4fe1\u606f\u7ba1\u7406\u542f\u5965"
+                }
+              ],
+              "code": "2308",
+              "name": "\u8ba1\u7b97\u673a\u4fe1\u606f\u7ba1\u7406\uff08\u542f\u5965\u73ed\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014230901",
+                  "name": "14\u7535\u5b50\u5546\u52a1\u542f\u5965"
+                }
+              ],
+              "code": "2309",
+              "name": "\u7535\u5b50\u5546\u52a1\uff08\u542f\u5965\u73ed\uff09"
+            }
+          ],
+          "code": "40",
+          "name": "\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2014071501",
+                  "name": "14\u5e7f\u544a\u672c1"
+                },
+                {
+                  "code": "2014071502",
+                  "name": "14\u5e7f\u544a\u672c2"
+                }
+              ],
+              "code": "0715",
+              "name": "\u5e7f\u544a\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2014230501",
+                  "name": "14\u56fe\u5f62\u56fe\u50cf\u5236\u4f5c1"
+                },
+                {
+                  "code": "2014230502",
+                  "name": "14\u56fe\u5f62\u56fe\u50cf\u5236\u4f5c2"
+                }
+              ],
+              "code": "2305",
+              "name": "\u56fe\u5f62\u56fe\u50cf\u5236\u4f5c"
+            }
+          ],
+          "code": "43",
+          "name": "\u4f20\u64ad\u4e0e\u52a8\u753b\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232744",
+                  "name": "\u6c7d\u8f66\u68c0\u6d4b\u4e0e\u7ef4\u4fee201401"
+                }
+              ],
+              "code": "2329",
+              "name": "\u6c7d\u8f66\u68c0\u6d4b\u4e0e\u7ef4\u4fee"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232745",
+                  "name": "\u710a\u63a5\u6280\u672f\u53ca\u81ea\u52a8\u5316201401"
+                }
+              ],
+              "code": "2330",
+              "name": "\u710a\u63a5\u6280\u672f\u53ca\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232743",
+                  "name": "\u8ba1\u7b97\u673a\u5e94\u7528\u6280\u672f201401"
+                }
+              ],
+              "code": "2331",
+              "name": "\u8ba1\u7b97\u673a\u5e94\u7528\u6280\u672f\uff08\u8f6f\u4ef6\u6280\u672f\u65b9\u5411\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232739",
+                  "name": "\u5f71\u89c6\u52a8\u753b201401"
+                },
+                {
+                  "code": "2015232740",
+                  "name": "\u5f71\u89c6\u52a8\u753b201402"
+                }
+              ],
+              "code": "2332",
+              "name": "\u5f71\u89c6\u52a8\u753b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232741",
+                  "name": "\u5f71\u89c6\u5e7f\u544a201401"
+                }
+              ],
+              "code": "2333",
+              "name": "\u5f71\u89c6\u5e7f\u544a"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232742",
+                  "name": "\u5f71\u89c6\u591a\u5a92\u4f53201401"
+                }
+              ],
+              "code": "2334",
+              "name": "\u5f71\u89c6\u591a\u5a92\u4f53\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232746",
+                  "name": "\u670d\u88c5\u8bbe\u8ba1201401"
+                }
+              ],
+              "code": "2335",
+              "name": "\u670d\u88c5\u8bbe\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232747",
+                  "name": "\u670d\u88c5\u8bbe\u8ba1\uff08\u827a\u672f\u8bbe\u8ba1\u65b9\u5411\uff09201401"
+                }
+              ],
+              "code": "2336",
+              "name": "\u670d\u88c5\u8bbe\u8ba1\uff08\u827a\u672f\u8bbe\u8ba1\u65b9\u5411\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232748",
+                  "name": "\u4eba\u7269\u5f62\u8c61\u8bbe\u8ba1201401"
+                }
+              ],
+              "code": "2337",
+              "name": "\u4eba\u7269\u5f62\u8c61\u8bbe\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232749",
+                  "name": "\u73e0\u5b9d\u9996\u9970\u5de5\u827a\u53ca\u9274\u5b9a201401"
+                }
+              ],
+              "code": "2338",
+              "name": "\u73e0\u5b9d\u9996\u9970\u5de5\u827a\u9274\u5b9a"
+            }
+          ],
+          "code": "50",
+          "name": "\u79d1\u5927\u6559\u80b2\u90e8\uff08\u8001\u751f-\u9f99\u6cfd\uff09"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232730",
+                  "name": "\u4f1a\u8ba1201401"
+                },
+                {
+                  "code": "2015232731",
+                  "name": "\u4f1a\u8ba1201402"
+                },
+                {
+                  "code": "2015232732",
+                  "name": "\u4f1a\u8ba1201403"
+                }
+              ],
+              "code": "2339",
+              "name": "\u4f1a\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232733",
+                  "name": "\u5546\u52a1\u82f1\u8bed201401"
+                }
+              ],
+              "code": "2340",
+              "name": "\u5546\u52a1\u82f1\u8bed"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232734",
+                  "name": "\u73af\u5883\u827a\u672f\u8bbe\u8ba1201401"
+                }
+              ],
+              "code": "2341",
+              "name": "\u73af\u5883\u827a\u672f\u8bbe\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232738",
+                  "name": "\u666f\u89c2\u827a\u672f\u8bbe\u8ba1201401"
+                }
+              ],
+              "code": "2342",
+              "name": "\u73af\u5883\u827a\u672f\u8bbe\u8ba1\uff08\u666f\u89c2\u8bbe\u8ba1\u65b9\u5411\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232735",
+                  "name": "\u88c5\u6f62\u827a\u672f\u8bbe\u8ba1201401"
+                },
+                {
+                  "code": "2015232736",
+                  "name": "\u88c5\u6f62\u827a\u672f\u8bbe\u8ba1201402"
+                }
+              ],
+              "code": "2343",
+              "name": "\u88c5\u6f62\u827a\u672f\u8bbe\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232737",
+                  "name": "\u88c5\u9970\u827a\u672f\u8bbe\u8ba1201401"
+                }
+              ],
+              "code": "2344",
+              "name": "\u88c5\u9970\u827a\u672f\u8bbe\u8ba1"
+            }
+          ],
+          "code": "51",
+          "name": "\u79d1\u5927\u6559\u80b2\u90e8\uff08\u8001\u751f-\u6587\u5317\uff09"
+        }
+      ],
+      "year": "2014"
+    },
+    {
+      "departments": [
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015010501",
+                  "name": "15\u673a\u672c1"
+                },
+                {
+                  "code": "2015010502",
+                  "name": "15\u673a\u672c2"
+                },
+                {
+                  "code": "2015010503",
+                  "name": "15\u673a\u672c3"
+                }
+              ],
+              "code": "0105",
+              "name": "\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u53ca\u5176\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015010701",
+                  "name": "15\u6d4b\u63a7\u672c1"
+                },
+                {
+                  "code": "2015010702",
+                  "name": "15\u6d4b\u63a7\u672c2"
+                }
+              ],
+              "code": "0107",
+              "name": "\u6d4b\u63a7\u6280\u672f\u4e0e\u4eea\u5668"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015011001",
+                  "name": "15\u673a\u75351"
+                },
+                {
+                  "code": "2015011002",
+                  "name": "15\u673a\u75352"
+                },
+                {
+                  "code": "2015011003",
+                  "name": "15\u673a\u75353"
+                }
+              ],
+              "code": "0110",
+              "name": "\u673a\u7535\u4e00\u4f53\u5316\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015011101",
+                  "name": "15\u6750\u6599\u6210\u578b\u672c1"
+                },
+                {
+                  "code": "2015011102",
+                  "name": "15\u6750\u6599\u6210\u578b\u672c2"
+                }
+              ],
+              "code": "0111",
+              "name": "\u6750\u6599\u6210\u578b\u53ca\u63a7\u5236\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015210101",
+                  "name": "15\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u7c7b1"
+                },
+                {
+                  "code": "2015210102",
+                  "name": "15\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u7c7b2"
+                },
+                {
+                  "code": "2015210103",
+                  "name": "15\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u7c7b3"
+                },
+                {
+                  "code": "2015210104",
+                  "name": "15\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u7c7b4"
+                },
+                {
+                  "code": "2015210105",
+                  "name": "15\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u7c7b5"
+                }
+              ],
+              "code": "2101",
+              "name": "\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232925",
+                  "name": "15\u673a\u68b0\u5236\u9020\u4e0e\u81ea\u52a8\u53161"
+                },
+                {
+                  "code": "2015232926",
+                  "name": "15\u673a\u68b0\u5236\u9020\u4e0e\u81ea\u52a8\u53162"
+                }
+              ],
+              "code": "2104",
+              "name": "\u673a\u68b0\u5236\u9020\u4e0e\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232922",
+                  "name": "15\u6570\u63a7\u6280\u672f"
+                }
+              ],
+              "code": "2105",
+              "name": "\u6570\u63a7\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232924",
+                  "name": "15\u6a21\u5177\u8bbe\u8ba1\u4e0e\u5236\u9020"
+                }
+              ],
+              "code": "2106",
+              "name": "\u6a21\u5177\u8bbe\u8ba1\u4e0e\u5236\u9020"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015230601",
+                  "name": "15\u673a\u68b0\u7535\u5b50\u5de5\u7a0b\u672c1"
+                },
+                {
+                  "code": "2015230602",
+                  "name": "15\u673a\u68b0\u7535\u5b50\u5de5\u7a0b\u672c2"
+                }
+              ],
+              "code": "2306",
+              "name": "\u673a\u68b0\u7535\u5b50\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232923",
+                  "name": "15\u710a\u63a5\u6280\u672f"
+                }
+              ],
+              "code": "3112",
+              "name": "\u710a\u63a5\u6280\u672f\u53ca\u81ea\u52a8\u5316\uff08\u673a\u68b0\uff09"
+            }
+          ],
+          "code": "31",
+          "name": "\u673a\u7535\u5de5\u7a0b\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015210301",
+                  "name": "15\u7535\u6c14\u81ea\u52a8\u5316\u6280\u672f1"
+                },
+                {
+                  "code": "2015210302",
+                  "name": "15\u7535\u6c14\u81ea\u52a8\u5316\u6280\u672f2"
+                }
+              ],
+              "code": "2103",
+              "name": "\u7535\u6c14\u81ea\u52a8\u5316\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015020801",
+                  "name": "15\u7535\u672c1"
+                },
+                {
+                  "code": "2015020802",
+                  "name": "15\u7535\u672c2"
+                },
+                {
+                  "code": "2015020803",
+                  "name": "15\u7535\u672c3"
+                }
+              ],
+              "code": "0208",
+              "name": "\u7535\u6c14\u5de5\u7a0b\u53ca\u5176\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232967",
+                  "name": "15\u901a\u4fe1\u672c1"
+                },
+                {
+                  "code": "2015232968",
+                  "name": "15\u901a\u4fe1\u672c2"
+                }
+              ],
+              "code": "0214",
+              "name": "\u901a\u4fe1\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232969",
+                  "name": "15\u7535\u4fe1\u672c"
+                }
+              ],
+              "code": "0215",
+              "name": "\u7535\u5b50\u4fe1\u606f\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015021901",
+                  "name": "15\u81ea\u52a8\u5316\u672c1"
+                },
+                {
+                  "code": "2015021902",
+                  "name": "15\u81ea\u52a8\u5316\u672c2"
+                }
+              ],
+              "code": "0219",
+              "name": "\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015022001",
+                  "name": "15\u7535\u5b50\u4fe1\u606f\u7c7b\u672c1"
+                },
+                {
+                  "code": "2015022002",
+                  "name": "15\u7535\u5b50\u4fe1\u606f\u7c7b\u672c2"
+                },
+                {
+                  "code": "2015022003",
+                  "name": "15\u7535\u5b50\u4fe1\u606f\u7c7b\u672c3"
+                }
+              ],
+              "code": "0220",
+              "name": "\u7535\u5b50\u4fe1\u606f\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015022101",
+                  "name": "15\u8f68\u9053\u4ea4\u901a\u672c"
+                }
+              ],
+              "code": "0221",
+              "name": "\u8f68\u9053\u4ea4\u901a\u4fe1\u53f7\u4e0e\u63a7\u5236"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015231101",
+                  "name": "15\u5efa\u7b51\u7535\u6c14\u672c1"
+                },
+                {
+                  "code": "2015231102",
+                  "name": "15\u5efa\u7b51\u7535\u6c14\u672c2"
+                }
+              ],
+              "code": "2311",
+              "name": "\u5efa\u7b51\u7535\u6c14\u4e0e\u667a\u80fd\u5316"
+            }
+          ],
+          "code": "32",
+          "name": "\u667a\u80fd\u4e0e\u4fe1\u606f\u5de5\u7a0b\u5b66\u9662"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015030701",
+                  "name": "15\u73af\u672c1"
+                },
+                {
+                  "code": "2015030702",
+                  "name": "15\u73af\u672c2"
+                }
+              ],
+              "code": "0307",
+              "name": "\u73af\u5883\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015030901",
+                  "name": "15\u5316\u5de5\u672c1"
+                },
+                {
+                  "code": "2015030902",
+                  "name": "15\u5316\u5de5\u672c2"
+                }
+              ],
+              "code": "0309",
+              "name": "\u5316\u5b66\u5de5\u7a0b\u4e0e\u5de5\u827a"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015031001",
+                  "name": "15\u751f\u5316"
+                }
+              ],
+              "code": "0310",
+              "name": "\u751f\u7269\u5316\u5de5\u5de5\u827a"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015031301",
+                  "name": "15\u65e0\u673a\u672c1"
+                },
+                {
+                  "code": "2015031302",
+                  "name": "15\u65e0\u673a\u672c2"
+                }
+              ],
+              "code": "0313",
+              "name": "\u65e0\u673a\u975e\u91d1\u5c5e\u6750\u6599\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015231201",
+                  "name": "15\u5efa\u7b51\u6750\u6599"
+                }
+              ],
+              "code": "2312",
+              "name": "\u5efa\u7b51\u6750\u6599\u5de5\u7a0b\u6280\u672f"
+            }
+          ],
+          "code": "33",
+          "name": "\u73af\u5883\u4e0e\u5316\u5b66\u5de5\u7a0b\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015040801",
+                  "name": "15\u571f\u672c1"
+                },
+                {
+                  "code": "2015040802",
+                  "name": "15\u571f\u672c2"
+                },
+                {
+                  "code": "2015040803",
+                  "name": "15\u571f\u672c3"
+                }
+              ],
+              "code": "0408",
+              "name": "\u571f\u6728\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015041201",
+                  "name": "15\u5efa\u5de51"
+                },
+                {
+                  "code": "2015041202",
+                  "name": "15\u5efa\u5de52"
+                }
+              ],
+              "code": "0412",
+              "name": "\u5efa\u7b51\u5de5\u7a0b\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015041501",
+                  "name": "15\u5de5\u7a0b\u7ba1\u7406\u672c"
+                }
+              ],
+              "code": "0415",
+              "name": "\u5de5\u7a0b\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015041901",
+                  "name": "15\u5efa\u73af\u672c1"
+                },
+                {
+                  "code": "2015041902",
+                  "name": "15\u5efa\u73af\u672c2"
+                }
+              ],
+              "code": "0419",
+              "name": "\u5efa\u7b51\u73af\u5883\u4e0e\u80fd\u6e90\u5e94\u7528\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232711",
+                  "name": "15\u571f\u6728\u672c\u8305\u4ee5\u5347\u73ed"
+                }
+              ],
+              "code": "0421",
+              "name": "\u571f\u6728\u5de5\u7a0b\uff08\u8305\u4ee5\u5347\u73ed\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015210801",
+                  "name": "15\u5de5\u7a0b\u9020\u4ef71"
+                },
+                {
+                  "code": "2015210802",
+                  "name": "15\u5de5\u7a0b\u9020\u4ef72"
+                },
+                {
+                  "code": "2015232712",
+                  "name": "15\u5de5\u7a0b\u9020\u4ef73"
+                },
+                {
+                  "code": "2015232713",
+                  "name": "15\u5de5\u7a0b\u9020\u4ef74"
+                }
+              ],
+              "code": "2108",
+              "name": "\u5de5\u7a0b\u9020\u4ef7"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015231301",
+                  "name": "15\u5de5\u7a0b\u9020\u4ef7\u672c1"
+                },
+                {
+                  "code": "2015231302",
+                  "name": "15\u5de5\u7a0b\u9020\u4ef7\u672c2"
+                }
+              ],
+              "code": "2313",
+              "name": "\u5de5\u7a0b\u9020\u4ef7\uff08\u672c\uff09"
+            }
+          ],
+          "code": "34",
+          "name": "\u571f\u6728\u5de5\u7a0b\u5b66\u9662"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015051601",
+                  "name": "15\u56fd\u8d38\u672c1"
+                },
+                {
+                  "code": "2015051602",
+                  "name": "15\u56fd\u8d38\u672c2"
+                }
+              ],
+              "code": "0516",
+              "name": "\u56fd\u9645\u7ecf\u6d4e\u4e0e\u8d38\u6613"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015052001",
+                  "name": "15\u7269\u6d411"
+                },
+                {
+                  "code": "2015052002",
+                  "name": "15\u7269\u6d412"
+                }
+              ],
+              "code": "0520",
+              "name": "\u7269\u6d41\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015052501",
+                  "name": "15\u8425\u9500\u672c1"
+                },
+                {
+                  "code": "2015052502",
+                  "name": "15\u8425\u9500\u672c2"
+                }
+              ],
+              "code": "0525",
+              "name": "\u5e02\u573a\u8425\u9500"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015052601",
+                  "name": "15\u5de5\u5546\u4f01\u4e1a\u7ba1\u74061"
+                },
+                {
+                  "code": "2015052602",
+                  "name": "15\u5de5\u5546\u4f01\u4e1a\u7ba1\u74062"
+                }
+              ],
+              "code": "0526",
+              "name": "\u5de5\u5546\u4f01\u4e1a\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015220101",
+                  "name": "15\u9152\u5e97\u7ba1\u7406\u672c1"
+                },
+                {
+                  "code": "2015220102",
+                  "name": "15\u9152\u5e97\u7ba1\u7406\u672c2"
+                }
+              ],
+              "code": "2201",
+              "name": "\u9152\u5e97\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232728",
+                  "name": "15\u56fd\u8d38\u672c\uff08\u53cc\u5b66\u4f4d\uff09"
+                }
+              ],
+              "code": "2346",
+              "name": "\u56fd\u9645\u7ecf\u6d4e\u4e0e\u8d38\u6613\uff08\u53cc\u5b66\u4f4d\uff09"
+            }
+          ],
+          "code": "35",
+          "name": "\u7ecf\u6d4e\u7ba1\u7406\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015051501",
+                  "name": "15\u4f1a\u672c1"
+                },
+                {
+                  "code": "2015051502",
+                  "name": "15\u4f1a\u672c2"
+                },
+                {
+                  "code": "2015051503",
+                  "name": "15\u4f1a\u672c3"
+                }
+              ],
+              "code": "0515",
+              "name": "\u4f1a\u8ba1\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015052401",
+                  "name": "15\u6295\u8d441"
+                },
+                {
+                  "code": "2015052402",
+                  "name": "15\u6295\u8d442"
+                }
+              ],
+              "code": "0524",
+              "name": "\u6295\u8d44\u4e0e\u7406\u8d22"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015052901",
+                  "name": "15\u8d22\u7ba1\u672c1"
+                },
+                {
+                  "code": "2015052902",
+                  "name": "15\u8d22\u7ba1\u672c2"
+                }
+              ],
+              "code": "0529",
+              "name": "\u8d22\u52a1\u7ba1\u7406\uff08\u672c\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015053201",
+                  "name": "15\u4f1a\u75351"
+                },
+                {
+                  "code": "2015053202",
+                  "name": "15\u4f1a\u75352"
+                },
+                {
+                  "code": "2015053203",
+                  "name": "15\u4f1a\u75353"
+                },
+                {
+                  "code": "2015232714",
+                  "name": "15\u4f1a\u75354"
+                },
+                {
+                  "code": "2015232715",
+                  "name": "15\u4f1a\u75355"
+                },
+                {
+                  "code": "2015232716",
+                  "name": "15\u4f1a\u75356"
+                },
+                {
+                  "code": "2015232717",
+                  "name": "15\u4f1a\u75357"
+                },
+                {
+                  "code": "2015232718",
+                  "name": "15\u4f1a\u75358"
+                },
+                {
+                  "code": "2015232719",
+                  "name": "15\u4f1a\u75359"
+                },
+                {
+                  "code": "2015232720",
+                  "name": "15\u4f1a\u753510"
+                },
+                {
+                  "code": "2015232721",
+                  "name": "15\u4f1a\u753511"
+                },
+                {
+                  "code": "2015232722",
+                  "name": "15\u4f1a\u753512"
+                }
+              ],
+              "code": "0532",
+              "name": "\u4f1a\u8ba1\u7535\u7b97\u5316"
+            }
+          ],
+          "code": "36",
+          "name": "\u4f1a\u8ba1\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232918",
+                  "name": "15\u82f1\u672c1"
+                },
+                {
+                  "code": "2015232919",
+                  "name": "15\u82f1\u672c2"
+                }
+              ],
+              "code": "0601",
+              "name": "\u82f1\u8bed"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015060701",
+                  "name": "15\u65e5\u8bed\u672c"
+                }
+              ],
+              "code": "0607",
+              "name": "\u65e5\u8bed"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015060801",
+                  "name": "15\u6c49\u8bed\u56fd\u9645\u6559\u80b2\u672c"
+                }
+              ],
+              "code": "0608",
+              "name": "\u6c49\u8bed\u56fd\u9645\u6559\u80b2"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015231401",
+                  "name": "15\u5546\u52a1\u82f1\u8bed"
+                }
+              ],
+              "code": "2314",
+              "name": "\u5546\u52a1\u82f1\u8bed"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232601",
+                  "name": "15\u5916\u56fd\u8bed\u8a00\u6587\u5b66\u7c7b\u672c1"
+                },
+                {
+                  "code": "2015232602",
+                  "name": "15\u5916\u56fd\u8bed\u8a00\u6587\u5b66\u7c7b\u672c2"
+                },
+                {
+                  "code": "2015232603",
+                  "name": "15\u5916\u56fd\u8bed\u8a00\u6587\u5b66\u7c7b\u672c3"
+                },
+                {
+                  "code": "2015232604",
+                  "name": "15\u5916\u56fd\u8bed\u8a00\u6587\u5b66\u7c7b\u672c4"
+                }
+              ],
+              "code": "2326",
+              "name": "\u5916\u56fd\u8bed\u8a00\u6587\u5b66\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232920",
+                  "name": "15\u5546\u52a1\u82f1\u8bed\u672c1"
+                },
+                {
+                  "code": "2015232921",
+                  "name": "15\u5546\u52a1\u82f1\u8bed\u672c2"
+                }
+              ],
+              "code": "2328",
+              "name": "\u5546\u52a1\u82f1\u8bed\uff08\u672c\uff09"
+            }
+          ],
+          "code": "37",
+          "name": "\u5916\u8bed\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015070801",
+                  "name": "15\u6cd5\u672c1"
+                },
+                {
+                  "code": "2015070802",
+                  "name": "15\u6cd5\u672c2"
+                }
+              ],
+              "code": "0708",
+              "name": "\u6cd5\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015071401",
+                  "name": "15\u6c49\u8bed\u672c"
+                }
+              ],
+              "code": "0714",
+              "name": "\u6c49\u8bed\u8a00\u6587\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015230701",
+                  "name": "15\u79d8\u4e66\u5b66\u672c"
+                }
+              ],
+              "code": "2307",
+              "name": "\u79d8\u4e66\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232729",
+                  "name": "15\u6cd5\u5b66\uff08\u53cc\u5b66\u4f4d\uff09"
+                }
+              ],
+              "code": "2345",
+              "name": "\u6cd5\u5b66\uff08\u53cc\u5b66\u4f4d\uff09"
+            }
+          ],
+          "code": "38",
+          "name": "\u6587\u6cd5\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [],
+              "code": "1801",
+              "name": "\u88c5\u9970\u827a\u672f\u8bbe\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232931",
+                  "name": "15\u73af\u5883\u827a\u672f\u8bbe\u8ba11"
+                },
+                {
+                  "code": "2015232932",
+                  "name": "15\u73af\u5883\u827a\u672f\u8bbe\u8ba12"
+                },
+                {
+                  "code": "2015232933",
+                  "name": "15\u73af\u5883\u827a\u672f\u8bbe\u8ba13"
+                },
+                {
+                  "code": "2015232934",
+                  "name": "15\u73af\u5883\u827a\u672f\u8bbe\u8ba14"
+                }
+              ],
+              "code": "1802",
+              "name": "\u73af\u5883\u827a\u672f\u8bbe\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015180301",
+                  "name": "15\u73af\u5883\u8bbe\u8ba1\u672c1"
+                },
+                {
+                  "code": "2015180302",
+                  "name": "15\u73af\u5883\u8bbe\u8ba1\u672c2"
+                }
+              ],
+              "code": "1803",
+              "name": "\u73af\u5883\u8bbe\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232701",
+                  "name": "15\u827a\u672f\u8bbe\u8ba1\u7c7b1"
+                },
+                {
+                  "code": "2015232702",
+                  "name": "15\u827a\u672f\u8bbe\u8ba1\u7c7b2"
+                },
+                {
+                  "code": "2015232703",
+                  "name": "15\u827a\u672f\u8bbe\u8ba1\u7c7b3"
+                },
+                {
+                  "code": "2015232704",
+                  "name": "15\u827a\u672f\u8bbe\u8ba1\u7c7b4"
+                },
+                {
+                  "code": "2015232705",
+                  "name": "15\u827a\u672f\u8bbe\u8ba1\u7c7b5"
+                },
+                {
+                  "code": "2015232706",
+                  "name": "15\u827a\u672f\u8bbe\u8ba1\u7c7b6"
+                }
+              ],
+              "code": "2327",
+              "name": "\u827a\u672f\u8bbe\u8ba1\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232935",
+                  "name": "15\u88c5\u6f62\u827a\u672f\u8bbe\u8ba11"
+                },
+                {
+                  "code": "2015232936",
+                  "name": "15\u88c5\u6f62\u827a\u672f\u8bbe\u8ba12"
+                }
+              ],
+              "code": "39",
+              "name": "\u88c5\u6f62\u827a\u672f\u8bbe\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232957",
+                  "name": "15\u89c6\u89c9\u4f20\u64ad1"
+                },
+                {
+                  "code": "2015232958",
+                  "name": "15\u89c6\u89c9\u4f20\u64ad2"
+                }
+              ],
+              "code": "3928",
+              "name": "\u89c6\u89c9\u4f20\u64ad\u8bbe\u8ba1\u4e0e\u5236\u4f5c"
+            }
+          ],
+          "code": "39",
+          "name": "\u827a\u672f\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015020601",
+                  "name": "15\u8ba1\u672c1"
+                },
+                {
+                  "code": "2015020602",
+                  "name": "15\u8ba1\u672c2"
+                }
+              ],
+              "code": "0206",
+              "name": "\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015051401",
+                  "name": "15\u4fe1\u7ba1\u672c1"
+                },
+                {
+                  "code": "2015051402",
+                  "name": "15\u4fe1\u7ba1\u672c2"
+                }
+              ],
+              "code": "0514",
+              "name": "\u4fe1\u606f\u7ba1\u7406\u4e0e\u4fe1\u606f\u7cfb\u7edf"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015200101",
+                  "name": "15\u7269\u8054\u7f51\u672c1"
+                },
+                {
+                  "code": "2015200102",
+                  "name": "15\u7269\u8054\u7f51\u672c2"
+                }
+              ],
+              "code": "2001",
+              "name": "\u7269\u8054\u7f51\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015230101",
+                  "name": "15\u8ba1\u7b97\u673a\u7c7b1"
+                },
+                {
+                  "code": "2015230102",
+                  "name": "15\u8ba1\u7b97\u673a\u7c7b2"
+                },
+                {
+                  "code": "2015230103",
+                  "name": "15\u8ba1\u7b97\u673a\u7c7b3"
+                },
+                {
+                  "code": "2015230104",
+                  "name": "15\u8ba1\u7b97\u673a\u7c7b4"
+                },
+                {
+                  "code": "2015230105",
+                  "name": "15\u8ba1\u7b97\u673a\u7c7b5"
+                },
+                {
+                  "code": "2015230106",
+                  "name": "15\u8ba1\u7b97\u673a\u7c7b6"
+                },
+                {
+                  "code": "2015232724",
+                  "name": "15\u8ba1\u7b97\u673a\u7c7b7"
+                },
+                {
+                  "code": "2015232725",
+                  "name": "15\u8ba1\u7b97\u673a\u7c7b8"
+                }
+              ],
+              "code": "2301",
+              "name": "\u8ba1\u7b97\u673a\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015230201",
+                  "name": "15\u7535\u5b50\u5546\u52a11"
+                },
+                {
+                  "code": "2015230202",
+                  "name": "15\u7535\u5b50\u5546\u52a12"
+                },
+                {
+                  "code": "2015230203",
+                  "name": "15\u7535\u5b50\u5546\u52a13"
+                },
+                {
+                  "code": "2015232723",
+                  "name": "15\u7535\u5b50\u5546\u52a14"
+                }
+              ],
+              "code": "2302",
+              "name": "\u7535\u5b50\u5546\u52a1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232784",
+                  "name": "15\u8ba1\u7b97\u673a\u7f51\u7edc"
+                }
+              ],
+              "code": "2303",
+              "name": "\u8ba1\u7b97\u673a\u7f51\u7edc\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232778",
+                  "name": "15\u8ba1\u4fe1\u7ba11"
+                },
+                {
+                  "code": "2015232779",
+                  "name": "15\u8ba1\u4fe1\u7ba12"
+                },
+                {
+                  "code": "2015232780",
+                  "name": "15\u8ba1\u4fe1\u7ba13"
+                },
+                {
+                  "code": "2015232781",
+                  "name": "15\u8ba1\u4fe1\u7ba14"
+                }
+              ],
+              "code": "2304",
+              "name": "\u8ba1\u7b97\u673a\u4fe1\u606f\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232777",
+                  "name": "15\u8ba1\u4fe1\u7ba1\uff08\u542f\u5965\uff09"
+                }
+              ],
+              "code": "2308",
+              "name": "\u8ba1\u7b97\u673a\u4fe1\u606f\u7ba1\u7406\uff08\u542f\u5965\u73ed\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232401",
+                  "name": "15\u8f6f\u4ef6\u5de5\u7a0b\u672c"
+                }
+              ],
+              "code": "2324",
+              "name": "\u8f6f\u4ef6\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232782",
+                  "name": "15\u8ba1\u7b97\u673a\u5e94\u75281"
+                },
+                {
+                  "code": "2015232783",
+                  "name": "15\u8ba1\u7b97\u673a\u5e94\u75282"
+                }
+              ],
+              "code": "2347",
+              "name": "\u8ba1\u7b97\u673a\u5e94\u7528\u6280\u672f"
+            }
+          ],
+          "code": "40",
+          "name": "\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015231501",
+                  "name": "15\u6c7d\u8f66\u68c0\u4fee"
+                }
+              ],
+              "code": "2315",
+              "name": "\u6c7d\u8f66\u68c0\u6d4b\u4e0e\u7ef4\u4fee\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015231601",
+                  "name": "15\u6c7d\u7535"
+                }
+              ],
+              "code": "2316",
+              "name": "\u6c7d\u8f66\u7535\u5b50\u6280\u672f"
+            }
+          ],
+          "code": "41",
+          "name": "\u4ea4\u901a\u4e0e\u8f66\u8f86\u5de5\u7a0b\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232726",
+                  "name": "15\u670d\u88c5\u8bbe\u8ba1"
+                }
+              ],
+              "code": "2317",
+              "name": "\u670d\u88c5\u8bbe\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015231901",
+                  "name": "15\u4eba\u7269\u5f62\u8c61\u8bbe\u8ba1"
+                }
+              ],
+              "code": "2319",
+              "name": "\u4eba\u7269\u5f62\u8c61\u8bbe\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232001",
+                  "name": "15\u73e0\u5b9d\u9274\u5b9a"
+                }
+              ],
+              "code": "2320",
+              "name": "\u73e0\u5b9d\u9996\u9970\u5de5\u827a\u53ca\u9274\u5b9a"
+            }
+          ],
+          "code": "42",
+          "name": "\u65f6\u5c1a\u8bbe\u8ba1\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015071501",
+                  "name": "15\u5e7f\u544a\u672c1"
+                },
+                {
+                  "code": "2015071502",
+                  "name": "15\u5e7f\u544a\u672c2"
+                }
+              ],
+              "code": "0715",
+              "name": "\u5e7f\u544a\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232727",
+                  "name": "15\u5f71\u89c6\u591a\u5a92\u4f53\u6280\u672f"
+                }
+              ],
+              "code": "2321",
+              "name": "\u5f71\u89c6\u591a\u5a92\u4f53"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232201",
+                  "name": "15\u5f71\u89c6\u52a8\u753b"
+                }
+              ],
+              "code": "2322",
+              "name": "\u5f71\u89c6\u52a8\u753b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232301",
+                  "name": "15\u5f71\u89c6\u5e7f\u544a"
+                }
+              ],
+              "code": "2323",
+              "name": "\u5f71\u89c6\u5e7f\u544a"
+            }
+          ],
+          "code": "43",
+          "name": "\u4f20\u64ad\u4e0e\u52a8\u753b\u7cfb"
+        }
+      ],
+      "year": "2015"
+    },
+    {
+      "departments": [
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232792",
+                  "name": "16\u673a\u672c1"
+                },
+                {
+                  "code": "2015232793",
+                  "name": "16\u673a\u672c2"
+                },
+                {
+                  "code": "2015232794",
+                  "name": "16\u673a\u672c3"
+                }
+              ],
+              "code": "0105",
+              "name": "\u673a\u68b0\u8bbe\u8ba1\u5236\u9020\u53ca\u5176\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232798",
+                  "name": "16\u6d4b\u63a7\u672c1"
+                },
+                {
+                  "code": "2015232799",
+                  "name": "16\u6d4b\u63a7\u672c2"
+                }
+              ],
+              "code": "0107",
+              "name": "\u6d4b\u63a7\u6280\u672f\u4e0e\u4eea\u5668"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232796",
+                  "name": "16\u6750\u6599\u6210\u578b\u672c1"
+                },
+                {
+                  "code": "2015232797",
+                  "name": "16\u6750\u6599\u6210\u578b\u672c2"
+                }
+              ],
+              "code": "0111",
+              "name": "\u6750\u6599\u6210\u578b\u53ca\u63a7\u5236\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232800",
+                  "name": "16\u673a\u68b0\u7535\u5b50\u5de5\u7a0b\u672c1"
+                },
+                {
+                  "code": "2015232801",
+                  "name": "16\u673a\u68b0\u7535\u5b50\u5de5\u7a0b\u672c2"
+                }
+              ],
+              "code": "2306",
+              "name": "\u673a\u68b0\u7535\u5b50\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232802",
+                  "name": "16\u673a\u68b0\u5de5\u7a0b\u672c"
+                }
+              ],
+              "code": "31",
+              "name": "\u673a\u68b0\u5de5\u7a0b"
+            }
+          ],
+          "code": "31",
+          "name": "\u673a\u7535\u5de5\u7a0b\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232848",
+                  "name": "16\u7535\u672c1"
+                },
+                {
+                  "code": "2015232849",
+                  "name": "16\u7535\u672c2"
+                },
+                {
+                  "code": "2015232850",
+                  "name": "16\u7535\u672c3"
+                }
+              ],
+              "code": "0208",
+              "name": "\u7535\u6c14\u5de5\u7a0b\u53ca\u5176\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232855",
+                  "name": "16\u81ea\u52a8\u5316\u672c1"
+                },
+                {
+                  "code": "2015232856",
+                  "name": "16\u81ea\u52a8\u5316\u672c2"
+                }
+              ],
+              "code": "0219",
+              "name": "\u81ea\u52a8\u5316"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232852",
+                  "name": "16\u7535\u5b50\u4fe1\u606f\u7c7b\u672c1"
+                },
+                {
+                  "code": "2015232853",
+                  "name": "16\u7535\u5b50\u4fe1\u606f\u7c7b\u672c2"
+                },
+                {
+                  "code": "2015232854",
+                  "name": "16\u7535\u5b50\u4fe1\u606f\u7c7b\u672c3"
+                }
+              ],
+              "code": "0220",
+              "name": "\u7535\u5b50\u4fe1\u606f\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232857",
+                  "name": "16\u8f68\u9053\u4ea4\u901a\u672c1"
+                },
+                {
+                  "code": "2015232858",
+                  "name": "16\u8f68\u9053\u4ea4\u901a\u672c2"
+                }
+              ],
+              "code": "0221",
+              "name": "\u8f68\u9053\u4ea4\u901a\u4fe1\u53f7\u4e0e\u63a7\u5236"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232859",
+                  "name": "16\u5efa\u7b51\u7535\u6c14\u672c1"
+                },
+                {
+                  "code": "2015232860",
+                  "name": "16\u5efa\u7b51\u7535\u6c14\u672c2"
+                }
+              ],
+              "code": "2311",
+              "name": "\u5efa\u7b51\u7535\u6c14\u4e0e\u667a\u80fd\u5316"
+            }
+          ],
+          "code": "32",
+          "name": "\u667a\u80fd\u4e0e\u4fe1\u606f\u5de5\u7a0b\u5b66\u9662"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232789",
+                  "name": "16\u73af\u672c1"
+                },
+                {
+                  "code": "2015232790",
+                  "name": "16\u73af\u672c2"
+                }
+              ],
+              "code": "0307",
+              "name": "\u73af\u5883\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232787",
+                  "name": "16\u5316\u5de5\u672c1"
+                },
+                {
+                  "code": "2015232788",
+                  "name": "16\u5316\u5de5\u672c2"
+                }
+              ],
+              "code": "0309",
+              "name": "\u5316\u5b66\u5de5\u7a0b\u4e0e\u5de5\u827a"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232785",
+                  "name": "16\u65e0\u673a\u672c1"
+                },
+                {
+                  "code": "2015232786",
+                  "name": "16\u65e0\u673a\u672c2"
+                }
+              ],
+              "code": "0313",
+              "name": "\u65e0\u673a\u975e\u91d1\u5c5e\u6750\u6599\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232791",
+                  "name": "16\u65b0\u80fd\u6e90\u672c"
+                }
+              ],
+              "code": "33",
+              "name": "\u65b0\u80fd\u6e90\u6750\u6599\u4e0e\u5668\u4ef6"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232864",
+                  "name": "16\u5316\u5de5"
+                }
+              ],
+              "code": "3318",
+              "name": "\u5316\u5de5\u751f\u7269\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232866",
+                  "name": "16\u73af\u5883\u5de5\u7a0b1"
+                },
+                {
+                  "code": "2015232867",
+                  "name": "16\u73af\u5883\u5de5\u7a0b2"
+                }
+              ],
+              "code": "3319",
+              "name": "\u73af\u5883\u5de5\u7a0b\u6280\u672f"
+            }
+          ],
+          "code": "33",
+          "name": "\u73af\u5883\u4e0e\u5316\u5b66\u5de5\u7a0b\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232823",
+                  "name": "16\u571f\u672c1"
+                },
+                {
+                  "code": "2015232824",
+                  "name": "16\u571f\u672c2"
+                },
+                {
+                  "code": "2015232825",
+                  "name": "16\u571f\u672c3"
+                }
+              ],
+              "code": "0408",
+              "name": "\u571f\u6728\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232890",
+                  "name": "16\u5efa\u5de51"
+                },
+                {
+                  "code": "2015232891",
+                  "name": "16\u5efa\u5de52"
+                }
+              ],
+              "code": "0412",
+              "name": "\u5efa\u7b51\u5de5\u7a0b\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232893",
+                  "name": "16\u5e02\u653f1"
+                },
+                {
+                  "code": "2015232894",
+                  "name": "16\u5e02\u653f2"
+                },
+                {
+                  "code": "2015232895",
+                  "name": "16\u5e02\u653f3"
+                }
+              ],
+              "code": "0414",
+              "name": "\u5e02\u653f\u5de5\u7a0b\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232829",
+                  "name": "16\u5de5\u7a0b\u7ba1\u7406\u672c1"
+                },
+                {
+                  "code": "2015232830",
+                  "name": "16\u5de5\u7a0b\u7ba1\u7406\u672c2"
+                }
+              ],
+              "code": "0415",
+              "name": "\u5de5\u7a0b\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232827",
+                  "name": "16\u5efa\u73af\u672c1"
+                },
+                {
+                  "code": "2015232828",
+                  "name": "16\u5efa\u73af\u672c2"
+                }
+              ],
+              "code": "0419",
+              "name": "\u5efa\u7b51\u73af\u5883\u4e0e\u80fd\u6e90\u5e94\u7528\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232927",
+                  "name": "16\u571f\u6728\u672c\u8305\u4ee5\u5347\u73ed"
+                }
+              ],
+              "code": "0421",
+              "name": "\u571f\u6728\u5de5\u7a0b\uff08\u8305\u4ee5\u5347\u73ed\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232831",
+                  "name": "16\u5de5\u7a0b\u9020\u4ef7\u672c1"
+                },
+                {
+                  "code": "2015232832",
+                  "name": "16\u5de5\u7a0b\u9020\u4ef7\u672c2"
+                }
+              ],
+              "code": "2313",
+              "name": "\u5de5\u7a0b\u9020\u4ef7\uff08\u672c\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232833",
+                  "name": "16\u7ed9\u6392\u6c34\u672c"
+                }
+              ],
+              "code": "34",
+              "name": "\u7ed9\u6392\u6c34\u79d1\u5b66\u4e0e\u5de5\u7a0b"
+            }
+          ],
+          "code": "34",
+          "name": "\u571f\u6728\u5de5\u7a0b\u5b66\u9662"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232813",
+                  "name": "16\u56fd\u8d38\u672c1"
+                },
+                {
+                  "code": "2015232814",
+                  "name": "16\u56fd\u8d38\u672c2"
+                }
+              ],
+              "code": "0516",
+              "name": "\u56fd\u9645\u7ecf\u6d4e\u4e0e\u8d38\u6613"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232878",
+                  "name": "16\u7269\u6d411"
+                },
+                {
+                  "code": "2015232879",
+                  "name": "16\u7269\u6d412"
+                }
+              ],
+              "code": "0520",
+              "name": "\u7269\u6d41\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232815",
+                  "name": "16\u8425\u9500\u672c1"
+                },
+                {
+                  "code": "2015232954",
+                  "name": "16\u8425\u9500\u672c2"
+                }
+              ],
+              "code": "0525",
+              "name": "\u5e02\u573a\u8425\u9500"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232880",
+                  "name": "16\u5de5\u5546\u4f01\u4e1a\u7ba1\u74061"
+                },
+                {
+                  "code": "2015232881",
+                  "name": "16\u5de5\u5546\u4f01\u4e1a\u7ba1\u74062"
+                },
+                {
+                  "code": "2015232943",
+                  "name": "16\u5de5\u5546\u4f01\u4e1a\u7ba1\u74063"
+                }
+              ],
+              "code": "0526",
+              "name": "\u5de5\u5546\u4f01\u4e1a\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232811",
+                  "name": "16\u9152\u5e97\u7ba1\u7406\u672c1"
+                },
+                {
+                  "code": "2015232812",
+                  "name": "16\u9152\u5e97\u7ba1\u7406\u672c2"
+                }
+              ],
+              "code": "2201",
+              "name": "\u9152\u5e97\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232955",
+                  "name": "16\u56fd\u8d38\u672c\uff08\u53cc\u5b66\u4f4d\uff09"
+                }
+              ],
+              "code": "2346",
+              "name": "\u56fd\u9645\u7ecf\u6d4e\u4e0e\u8d38\u6613\uff08\u53cc\u5b66\u4f4d\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232816",
+                  "name": "16\u7269\u6d41\u7ba1\u7406\u672c"
+                }
+              ],
+              "code": "35",
+              "name": "\u7269\u6d41\u7ba1\u7406\uff08\u672c\uff09"
+            }
+          ],
+          "code": "35",
+          "name": "\u7ecf\u6d4e\u7ba1\u7406\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232817",
+                  "name": "16\u4f1a\u672c1"
+                },
+                {
+                  "code": "2015232818",
+                  "name": "16\u4f1a\u672c2"
+                },
+                {
+                  "code": "2015232819",
+                  "name": "16\u4f1a\u672c3"
+                }
+              ],
+              "code": "0515",
+              "name": "\u4f1a\u8ba1\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232884",
+                  "name": "16\u4f1a\u8ba11"
+                },
+                {
+                  "code": "2015232885",
+                  "name": "16\u4f1a\u8ba12"
+                },
+                {
+                  "code": "2015232886",
+                  "name": "16\u4f1a\u8ba13"
+                },
+                {
+                  "code": "2015232944",
+                  "name": "16\u4f1a\u8ba14"
+                },
+                {
+                  "code": "2015232945",
+                  "name": "16\u4f1a\u8ba15"
+                },
+                {
+                  "code": "2015232946",
+                  "name": "16\u4f1a\u8ba16"
+                },
+                {
+                  "code": "2015232947",
+                  "name": "16\u4f1a\u8ba17"
+                },
+                {
+                  "code": "2015232948",
+                  "name": "16\u4f1a\u8ba18"
+                },
+                {
+                  "code": "2015232949",
+                  "name": "16\u4f1a\u8ba19"
+                },
+                {
+                  "code": "2015232950",
+                  "name": "16\u4f1a\u8ba110"
+                },
+                {
+                  "code": "2015232951",
+                  "name": "16\u4f1a\u8ba111"
+                },
+                {
+                  "code": "2015232952",
+                  "name": "16\u4f1a\u8ba112"
+                }
+              ],
+              "code": "0522",
+              "name": "\u4f1a\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232882",
+                  "name": "16\u6295\u8d441"
+                },
+                {
+                  "code": "2015232883",
+                  "name": "16\u6295\u8d442"
+                }
+              ],
+              "code": "0524",
+              "name": "\u6295\u8d44\u4e0e\u7406\u8d22"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232821",
+                  "name": "16\u8d22\u7ba1\u672c1"
+                },
+                {
+                  "code": "2015232822",
+                  "name": "16\u8d22\u7ba1\u672c2"
+                }
+              ],
+              "code": "0529",
+              "name": "\u8d22\u52a1\u7ba1\u7406\uff08\u672c\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232887",
+                  "name": "16\u8d22\u52a1\u7ba1\u74061"
+                },
+                {
+                  "code": "2015232888",
+                  "name": "16\u8d22\u52a1\u7ba1\u74062"
+                },
+                {
+                  "code": "2015232889",
+                  "name": "16\u8d22\u52a1\u7ba1\u74063"
+                },
+                {
+                  "code": "2015232953",
+                  "name": "16\u8d22\u52a1\u7ba1\u74064"
+                }
+              ],
+              "code": "2203",
+              "name": "\u8d22\u52a1\u7ba1\u7406"
+            }
+          ],
+          "code": "36",
+          "name": "\u4f1a\u8ba1\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [],
+              "code": "0601",
+              "name": "\u82f1\u8bed"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232839",
+                  "name": "16\u65e5\u8bed\u672c"
+                }
+              ],
+              "code": "0607",
+              "name": "\u65e5\u8bed"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232834",
+                  "name": "16\u6c49\u8bed\u56fd\u9645\u6559\u80b2\u672c"
+                }
+              ],
+              "code": "0608",
+              "name": "\u6c49\u8bed\u56fd\u9645\u6559\u80b2"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232896",
+                  "name": "16\u5546\u52a1\u82f1\u8bed1"
+                },
+                {
+                  "code": "2015232897",
+                  "name": "16\u5546\u52a1\u82f1\u8bed2"
+                }
+              ],
+              "code": "2314",
+              "name": "\u5546\u52a1\u82f1\u8bed"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232835",
+                  "name": "16\u5916\u56fd\u8bed\u8a00\u6587\u5b66\u7c7b\u672c1"
+                },
+                {
+                  "code": "2015232836",
+                  "name": "16\u5916\u56fd\u8bed\u8a00\u6587\u5b66\u7c7b\u672c2"
+                },
+                {
+                  "code": "2015232837",
+                  "name": "16\u5916\u56fd\u8bed\u8a00\u6587\u5b66\u7c7b\u672c3"
+                },
+                {
+                  "code": "2015232928",
+                  "name": "16\u5916\u56fd\u8bed\u8a00\u6587\u5b66\u7c7b\u672c4"
+                }
+              ],
+              "code": "2326",
+              "name": "\u5916\u56fd\u8bed\u8a00\u6587\u5b66\u7c7b"
+            },
+            {
+              "classes": [],
+              "code": "2328",
+              "name": "\u5546\u52a1\u82f1\u8bed\uff08\u672c\uff09"
+            }
+          ],
+          "code": "37",
+          "name": "\u5916\u8bed\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232840",
+                  "name": "16\u6cd5\u672c1"
+                },
+                {
+                  "code": "2015232841",
+                  "name": "16\u6cd5\u672c2"
+                }
+              ],
+              "code": "0708",
+              "name": "\u6cd5\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232898",
+                  "name": "16\u6587\u79d8"
+                }
+              ],
+              "code": "0712",
+              "name": "\u6587\u79d8"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232842",
+                  "name": "16\u6c49\u8bed\u672c1"
+                },
+                {
+                  "code": "2015232843",
+                  "name": "16\u6c49\u8bed\u672c2"
+                }
+              ],
+              "code": "0714",
+              "name": "\u6c49\u8bed\u8a00\u6587\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232844",
+                  "name": "16\u79d8\u4e66\u5b66\u672c1"
+                },
+                {
+                  "code": "2015232845",
+                  "name": "16\u79d8\u4e66\u5b66\u672c2"
+                }
+              ],
+              "code": "2307",
+              "name": "\u79d8\u4e66\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232956",
+                  "name": "16\u6cd5\u5b66\uff08\u53cc\u5b66\u4f4d\uff09"
+                }
+              ],
+              "code": "2345",
+              "name": "\u6cd5\u5b66\uff08\u53cc\u5b66\u4f4d\uff09"
+            }
+          ],
+          "code": "38",
+          "name": "\u6587\u6cd5\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232910",
+                  "name": "16\u73af\u5883\u827a\u672f\u8bbe\u8ba11"
+                },
+                {
+                  "code": "2015232911",
+                  "name": "16\u73af\u5883\u827a\u672f\u8bbe\u8ba12"
+                },
+                {
+                  "code": "2015232912",
+                  "name": "16\u73af\u5883\u827a\u672f\u8bbe\u8ba13"
+                },
+                {
+                  "code": "2015232942",
+                  "name": "16\u73af\u5883\u827a\u672f\u8bbe\u8ba14"
+                }
+              ],
+              "code": "1802",
+              "name": "\u73af\u5883\u827a\u672f\u8bbe\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232862",
+                  "name": "16\u73af\u5883\u8bbe\u8ba1\u672c1"
+                },
+                {
+                  "code": "2015232863",
+                  "name": "16\u73af\u5883\u8bbe\u8ba1\u672c2"
+                }
+              ],
+              "code": "1803",
+              "name": "\u73af\u5883\u8bbe\u8ba1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232908",
+                  "name": "16\u89c6\u89c9\u4f20\u64ad1"
+                },
+                {
+                  "code": "2015232909",
+                  "name": "16\u89c6\u89c9\u4f20\u64ad2"
+                }
+              ],
+              "code": "3928",
+              "name": "\u89c6\u89c9\u4f20\u64ad\u8bbe\u8ba1\u4e0e\u5236\u4f5c"
+            }
+          ],
+          "code": "39",
+          "name": "\u827a\u672f\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232803",
+                  "name": "16\u8ba1\u672c1"
+                },
+                {
+                  "code": "2015232804",
+                  "name": "16\u8ba1\u672c2"
+                }
+              ],
+              "code": "0206",
+              "name": "\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232807",
+                  "name": "16\u4fe1\u7ba1\u672c1"
+                },
+                {
+                  "code": "2015232808",
+                  "name": "16\u4fe1\u7ba1\u672c2"
+                }
+              ],
+              "code": "0514",
+              "name": "\u4fe1\u606f\u7ba1\u7406\u4e0e\u4fe1\u606f\u7cfb\u7edf"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232805",
+                  "name": "16\u7269\u8054\u7f51\u672c1"
+                },
+                {
+                  "code": "2015232806",
+                  "name": "16\u7269\u8054\u7f51\u672c2"
+                }
+              ],
+              "code": "2001",
+              "name": "\u7269\u8054\u7f51\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232868",
+                  "name": "16\u8ba1\u7b97\u673a\u7c7b1"
+                },
+                {
+                  "code": "2015232869",
+                  "name": "16\u8ba1\u7b97\u673a\u7c7b2"
+                },
+                {
+                  "code": "2015232870",
+                  "name": "16\u8ba1\u7b97\u673a\u7c7b3"
+                },
+                {
+                  "code": "2015232871",
+                  "name": "16\u8ba1\u7b97\u673a\u7c7b4"
+                },
+                {
+                  "code": "2015232938",
+                  "name": "16\u8ba1\u7b97\u673a\u7c7b5"
+                },
+                {
+                  "code": "2015232939",
+                  "name": "16\u8ba1\u7b97\u673a\u7c7b6"
+                },
+                {
+                  "code": "2015232940",
+                  "name": "16\u8ba1\u7b97\u673a\u7c7b7"
+                },
+                {
+                  "code": "2015232941",
+                  "name": "16\u8ba1\u7b97\u673a\u7c7b8"
+                }
+              ],
+              "code": "2301",
+              "name": "\u8ba1\u7b97\u673a\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232875",
+                  "name": "16\u7535\u5b50\u5546\u52a11"
+                },
+                {
+                  "code": "2015232876",
+                  "name": "16\u7535\u5b50\u5546\u52a12"
+                },
+                {
+                  "code": "2015232877",
+                  "name": "16\u7535\u5b50\u5546\u52a13"
+                }
+              ],
+              "code": "2302",
+              "name": "\u7535\u5b50\u5546\u52a1"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232965",
+                  "name": "16\u8ba1\u7b97\u673a\u7f51\u7edc"
+                }
+              ],
+              "code": "2303",
+              "name": "\u8ba1\u7b97\u673a\u7f51\u7edc\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232959",
+                  "name": "16\u8ba1\u4fe1\u7ba11"
+                },
+                {
+                  "code": "2015232960",
+                  "name": "16\u8ba1\u4fe1\u7ba12"
+                },
+                {
+                  "code": "2015232961",
+                  "name": "16\u8ba1\u4fe1\u7ba13"
+                },
+                {
+                  "code": "2015232962",
+                  "name": "16\u8ba1\u4fe1\u7ba14"
+                }
+              ],
+              "code": "2304",
+              "name": "\u8ba1\u7b97\u673a\u4fe1\u606f\u7ba1\u7406"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232966",
+                  "name": "16\u8ba1\u4fe1\u7ba1\uff08\u542f\u5965\uff09"
+                }
+              ],
+              "code": "2308",
+              "name": "\u8ba1\u7b97\u673a\u4fe1\u606f\u7ba1\u7406\uff08\u542f\u5965\u73ed\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232809",
+                  "name": "16\u8f6f\u4ef6\u5de5\u7a0b\u672c1"
+                },
+                {
+                  "code": "2015232810",
+                  "name": "16\u8f6f\u4ef6\u5de5\u7a0b\u672c2"
+                }
+              ],
+              "code": "2324",
+              "name": "\u8f6f\u4ef6\u5de5\u7a0b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232963",
+                  "name": "16\u8ba1\u7b97\u673a\u5e94\u75281"
+                },
+                {
+                  "code": "2015232964",
+                  "name": "16\u8ba1\u7b97\u673a\u5e94\u75282"
+                }
+              ],
+              "code": "2347",
+              "name": "\u8ba1\u7b97\u673a\u5e94\u7528\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232872",
+                  "name": "16\u79fb\u52a8\u5e94\u75281"
+                },
+                {
+                  "code": "2015232873",
+                  "name": "16\u79fb\u52a8\u5e94\u75282"
+                }
+              ],
+              "code": "40",
+              "name": "\u79fb\u52a8\u5e94\u7528\u5f00\u53d1"
+            }
+          ],
+          "code": "40",
+          "name": "\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232914",
+                  "name": "16\u6c7d\u8f66\u68c0\u4fee"
+                }
+              ],
+              "code": "2315",
+              "name": "\u6c7d\u8f66\u68c0\u6d4b\u4e0e\u7ef4\u4fee\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232916",
+                  "name": "16\u6c7d\u7535"
+                }
+              ],
+              "code": "2316",
+              "name": "\u6c7d\u8f66\u7535\u5b50\u6280\u672f"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232861",
+                  "name": "16\u8f66\u8f86\u672c"
+                }
+              ],
+              "code": "41",
+              "name": "\u8f66\u8f86\u5de5\u7a0b"
+            },
+            {
+              "classes": [],
+              "code": "4117",
+              "name": "\u6c7d\u8f66\u5236\u9020\u7c7b"
+            }
+          ],
+          "code": "41",
+          "name": "\u4ea4\u901a\u4e0e\u8f66\u8f86\u5de5\u7a0b\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232901",
+                  "name": "16\u4eba\u7269\u5f62\u8c61\u8bbe\u8ba1"
+                }
+              ],
+              "code": "2319",
+              "name": "\u4eba\u7269\u5f62\u8c61\u8bbe\u8ba1"
+            },
+            {
+              "classes": [],
+              "code": "4221",
+              "name": "\u670d\u88c5\u4e0e\u670d\u9970\u8bbe\u8ba1\uff08\u5de5\u7a0b\u65b9\u5411\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232900",
+                  "name": "16\u670d\u88c5\uff08\u827a\u672f\u65b9\u5411\uff09"
+                }
+              ],
+              "code": "4222",
+              "name": "\u670d\u88c5\u4e0e\u670d\u9970\u8bbe\u8ba1\uff08\u827a\u672f\u65b9\u5411\uff09"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232913",
+                  "name": "16\u00e9\u015a\u0096\u00e9\u013d\u00b0"
+                }
+              ],
+              "code": "4223",
+              "name": "\u9996\u9970\u8bbe\u8ba1\u4e0e\u5de5\u827a"
+            }
+          ],
+          "code": "42",
+          "name": "\u65f6\u5c1a\u8bbe\u8ba1\u7cfb"
+        },
+        {
+          "specialties": [
+            {
+              "classes": [
+                {
+                  "code": "2015232846",
+                  "name": "16\u5e7f\u544a\u672c1"
+                },
+                {
+                  "code": "2015232847",
+                  "name": "16\u5e7f\u544a\u672c2"
+                }
+              ],
+              "code": "0715",
+              "name": "\u5e7f\u544a\u5b66"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232905",
+                  "name": "16\u5e7f\u544a"
+                }
+              ],
+              "code": "0713",
+              "name": "\u5e7f\u544a\u8bbe\u8ba1\u4e0e\u5236\u4f5c"
+            },
+            {
+              "classes": [],
+              "code": "2321",
+              "name": "\u5f71\u89c6\u591a\u5a92\u4f53"
+            },
+            {
+              "classes": [],
+              "code": "2322",
+              "name": "\u5f71\u89c6\u52a8\u753b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232902",
+                  "name": "16\u5e7f\u64ad\u5f71\u89c6\u7c7b"
+                }
+              ],
+              "code": "4324",
+              "name": "\u5e7f\u64ad\u5f71\u89c6\u7c7b"
+            },
+            {
+              "classes": [
+                {
+                  "code": "2015232906",
+                  "name": "16\u6570\u5b57\u5a92\u4f53"
+                }
+              ],
+              "code": "4325",
+              "name": "\u6570\u5b57\u5a92\u4f53\u5e94\u7528\u6280\u672f"
+            }
+          ],
+          "code": "43",
+          "name": "\u4f20\u64ad\u4e0e\u52a8\u753b\u7cfb"
+        }
+      ],
+      "year": "2016"
+    }
+  ]
+}
